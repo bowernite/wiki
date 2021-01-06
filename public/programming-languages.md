@@ -6,4 +6,5 @@ General place to take notes on programming languages. This will probably be spli
 
 ## Links
 
-- [Rust vs. Go](https://bitfieldconsulting.com/golang/rust-vs-go)
+* [Rust vs. Go](https://bitfieldconsulting.com/golang/rust-vs-go)
+
