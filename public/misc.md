@@ -17,4 +17,3 @@ When signing up for a site, I'll try to follow these rules:
 ## Notes
 
 ## Links
-
