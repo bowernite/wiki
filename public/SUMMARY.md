@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Npm](npm.md)
 * [Health](health.md)
 * [Terminal](terminal.md)
