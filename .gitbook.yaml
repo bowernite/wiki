@@ -1,4 +1,4 @@
 root: public
 
 ​structure:  
-    readme: ../README.md  
+    readme: INTRODUCTION.MD 
