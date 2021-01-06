@@ -1,6 +1,8 @@
 # German Culture
 
-## Things to do once we get there
+A lot of the notes here were taken down from a book 🙈
+
+## Things to do
 
 - Go to bars to watch Tartot show on Sunday nights
 
@@ -24,12 +26,8 @@
   - Not much socializing at work
   - Germans focus on work at work, and party when it's time to party
 - Work week is shorter -- 36-40 hours per week, 7-8 per day
-- Hasselhoff is embarassing -- don't bring it up
 - Make sure to use the correct version of Du vs. Sind
-
   - Can get fined if you call a police officer Du
   - Professionally and older people are generally Sind
-
-    -
 
 ## Links
