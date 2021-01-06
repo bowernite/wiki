@@ -12,7 +12,9 @@
 - The `export` keyword is only necessary when sub-processes need access to the variable
   - So if you don't use `export`, when you execute programs they won't have access to the variable. But **the resulting shell will**
 - To do string transformation on strings in zsh upon expansion, use [expansion flags](http://zsh.sourceforge.net/Doc/Release/Expansion.html#Parameter-Expansion-Flags)
+- To rename the current directory: `mv ../current_dir ../new_dir_name` or `mv ../{test,test2}` (uses brace expansion for brevity)
 
 ## Links
 
 - [Lowercasing and Uppercasing strings in bash/zsh](https://scriptingosx.com/2019/12/upper-or-lower-casing-strings-in-bash-and-zsh/)
+- [Bash scripting cheatsheet](https://devhints.io/bash)
