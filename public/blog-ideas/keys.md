@@ -31,3 +31,6 @@ Sometimes, just knowing about something is the "key" to being able to advance in
 - The mind is something to be trained
   - Some things aren't natural at first, but you'd be surprised at what we can train the mind to do
   - Examples: Meditation, ramping up podcast/book listening speeds
+- [gitupdate](https://github.com/nikitavoloboev/gitupdate)
+  - Super useful when you dgaf about the commit name
+  - Helps encourage committing
