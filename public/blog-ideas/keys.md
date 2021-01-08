@@ -34,3 +34,4 @@ Sometimes, just knowing about something is the "key" to being able to advance in
 - [gitupdate](https://github.com/nikitavoloboev/gitupdate)
   - Super useful when you dgaf about the commit name
   - Helps encourage committing
+  - Tag team with VS Code task+keyboard shortcut, super easy commits
