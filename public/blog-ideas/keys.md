@@ -37,3 +37,4 @@ Sometimes, just knowing about something is the "key" to being able to advance in
   - Tag team with VS Code task+keyboard shortcut, super easy commits
 - Vimium
 - Alfred
+- Keyboard shortcut on every site like `?` or `⌘/` to show the sites shortcuts
