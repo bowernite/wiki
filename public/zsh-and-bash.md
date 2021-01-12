@@ -7,7 +7,7 @@
 - Functions can be declared with/without `function` keyword and parens
   - `my_function ()`, `function my_function`, etc
 - To pass arguments to a function, just use spaces
-  - \`my_function "hello" "world"
+  - `my_function "hello" "world"`
   - If passing variables, sometimes it's good practice to put them in quotes in case the variables have spaces in them
 - The `export` keyword is only necessary when sub-processes need access to the variable
   - So if you don't use `export`, when you execute programs they won't have access to the variable. But **the resulting shell will**
