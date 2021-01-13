@@ -1,4 +1,6 @@
-# Zsh, Bash, and Shell Scripting
+# Shell Scripting
+
+Notes on shell scripting, as well as some zsh- and bash-specific stuff.
 
 ## Notes
 

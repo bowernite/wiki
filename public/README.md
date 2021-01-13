@@ -1,4 +1,4 @@
-# Introduction
+# My Wiki
 
 My second brain 🧠
 
