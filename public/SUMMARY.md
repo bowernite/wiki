@@ -6,7 +6,7 @@
 - [Terminal](terminal.md)
 - [Programming Languages](programming-languages.md)
 - [Job Hunting](job-hunting.md)
-- [Ideas](ideas/README.md)
+- [Ideas](ideas/ideas.md)
   - [Leveraging and Training our Brain's autopilot](ideas/training-brain-autopilot.md)
   - [Keys](ideas/keys.md)
 - [Laundry](laundry.md)
