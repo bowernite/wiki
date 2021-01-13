@@ -2,21 +2,21 @@
 
 ## Notes
 
-- Key to getting more flexible is consistency
-  - Ideally 3-4 times per day
-- "A solid stretching session is like 30s holds 3-4 times each side" \(Bryan\)
-- Strengthening the core/abs can help take the load of the lower back
+* Key to getting more flexible is consistency
+  * Ideally 3-4 times per day
+* "A solid stretching session is like 30s holds 3-4 times each side" \(Bryan\)
+* Strengthening the core/abs can help take the load of the lower back
 
 ### Hamstring Tightness
 
-- Tight hamstrings/glutes can be a source of low back pain
-- Important to work on the whole "posterior chain"
-- Posterior chain includes hamstrings, calves, and glutes
+* Tight hamstrings/glutes can be a source of low back pain
+* Important to work on the whole "posterior chain"
+* Posterior chain includes hamstrings, calves, and glutes
 
 #### Stretching program
 
-- Ideally 2-3x per day
-- Got this from Bryan D.
+* Ideally 2-3x per day
+* Got this from Bryan D.
 
 **Glutes**
 
@@ -32,13 +32,14 @@
 
 **Other stuff**
 
-- Foam roll if available
-  - Glutes, hamstrings, and calves \(1-2 mins per muscle group\)
-- Light ab/core work 2-3x a week
+* Foam roll if available
+  * Glutes, hamstrings, and calves \(1-2 mins per muscle group\)
+* Light ab/core work 2-3x a week
 
 ### PNF Stretching
 
-- Supposed to be really good for getting you flexible
-- Works by loosening muscle through contraction, so that it can stretch further
-- From Bryan: "Works best when you have a partner"
-- Harder alone, but still doable \(e.g. with a strap\)
+* Supposed to be really good for getting you flexible
+* Works by loosening muscle through contraction, so that it can stretch further
+* From Bryan: "Works best when you have a partner"
+* Harder alone, but still doable \(e.g. with a strap\)
+
