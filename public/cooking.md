@@ -1,5 +1,13 @@
 # Cooking
 
+## Recipes
+
+### Quick / Stress-Free / Simple
+
+- [Broiled Eggplant with Pesto](https://www.cookstr.com/Vegetable-Recipes/Broiled-Eggplant-with-Pesto)
+
+## Notes
+
 - Select smaller onions when cooking for two
 - Select smaller potatoes
   - Taste better \(more moisture and flavor, creamier texture\)
