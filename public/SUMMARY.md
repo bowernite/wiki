@@ -24,3 +24,5 @@
 - [Golf](golf.md)
 - [Mental Models](mental-models.md)
 - [HTML / CSS](html-css.md)
+- [GTD](gtd.md)
+- [Parenting](parenting.md)
