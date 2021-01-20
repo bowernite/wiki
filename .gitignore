@@ -1,2 +1,5 @@
 .DS_Store
+*.plist
+.UlyssesRoot
 /private
+.obsidian
