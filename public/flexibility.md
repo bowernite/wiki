@@ -1,12 +1,5 @@
 # Flexibility
 
-## Notes
-
-- Key to getting more flexible is consistency
-  - Ideally 3-4 times per day
-- "A solid stretching session is like 30s holds 3-4 times each side" \(Bryan\)
-- Strengthening the core/abs can help take the load of the lower back
-
 ### Hamstring Tightness
 
 - Tight hamstrings/glutes can be a source of low back pain
@@ -42,3 +35,12 @@
 - Works by loosening muscle through contraction, so that it can stretch further
 - From Bryan: "Works best when you have a partner"
 - Harder alone, but still doable \(e.g. with a strap\)
+
+## Notes
+
+- Key to getting more flexible is consistency
+  - Ideally 3-4 times per day
+- "A solid stretching session is like 30s holds 3-4 times each side" \(Bryan\)
+- Strengthening the core/abs can help take the load of the lower back
+
+## Links

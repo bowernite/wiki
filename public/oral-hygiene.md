@@ -86,3 +86,7 @@ _**Bottomline**_: Not going to use it. Seems like a super-optimizing thing that 
   - Some even say use water instead \(contradicting advice about on not rinsing after brushing\)
   - “some dentifrice ingredients \(like calcium hydroxide or aluminum hydroxide\) can form a complex with fluoride ions and reduce a mouthwash’s effectiveness. Therefore, vigorous rinsing with water may be recommended after brushing and before rinsing if these ingredients are present.”
 - There are two basic kinds of mouthwashes, the kind that just temporarily freshens your breath \(cosmetic\) and the kind that addresses oral health problems \(therapeutic\). In general, products marketed as “mouthwashes” are cosmetic and “rinses” tend to be therapeutic, but this isn’t always the case.
+
+## Notes
+
+## Links

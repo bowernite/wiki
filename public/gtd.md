@@ -1,5 +1,15 @@
 # GTD
 
+### Graphics
+
+![GTD-1](images/GTD-1.png)
+
+Here, bolded boxes are the lists you need:
+
+![GTD-2](images/GTD-2.png)
+
+![GTD-3](images/GTD-3.png)
+
 ## Notes
 
 - As few “in” trays as possible
@@ -21,15 +31,5 @@
   - Day specific actions (things that need to be done on that day)
   - Day specific info
 - Review Someday weekly
-
-### Graphics
-
-![GTD-1](images/GTD-1.png)
-
-Here, bolded boxes are the lists you need:
-
-![GTD-2](images/GTD-2.png)
-
-![GTD-3](images/GTD-3.png)
 
 ## Links

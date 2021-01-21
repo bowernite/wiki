@@ -198,10 +198,6 @@ Based on handicap:
   - [https://www.globalgolf.com/golf-clubs/1041742-titleist-718-ap1-iron-set/](https://www.globalgolf.com/golf-clubs/1041742-titleist-718-ap1-iron-set/)
 - Taylormade M2 2017 \* [https://www.globalgolf.com/golf-clubs/1037645-taylormade-m2-2017-iron-set/\_](https://www.globalgolf.com/golf-clubs/1037645-taylormade-m2-2017-iron-set/_)
 
-## Notes
-
-- As of 1/6/21, your handicap is about **27**
-
 ## References
 
 - Ben Hogan’s 5 Lessons
@@ -209,3 +205,9 @@ Based on handicap:
   - Go here if you want to review the fundamentals
 - Harvey Penick's Little Red Book
   - More awesome reference material. Really short chapters that are to the point
+
+## Notes
+
+- As of 1/6/21, your handicap is about **27**
+
+## Links

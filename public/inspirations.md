@@ -16,3 +16,7 @@ Keeping track of these because... I don't know, it seems useful. Maybe if I'm lo
 - Caleb Foust \(my bff\)
 - Josh Comeau - Super positive, awesome at HTML and CSS
   - [https://www.joshwcomeau.com/](https://www.joshwcomeau.com/)
+
+## Notes
+
+## Links
