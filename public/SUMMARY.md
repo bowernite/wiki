@@ -27,3 +27,4 @@
 - [GTD](gtd.md)
 - [Parenting](parenting.md)
 - [Quantum Computing](quantum-computing.md)
+- [German](german.md)
