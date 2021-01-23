@@ -13,7 +13,6 @@ Keeping track of these because... I don't know, it seems useful. Maybe if I'm lo
 - Nikita Voloboev
   - [Wiki](https://wiki.nikitavoloboev.xyz/)
 - [Shawn Wang](https://swyx.io)
-- Caleb Foust \(my bff\)
 - Josh Comeau - Super positive, awesome at HTML and CSS
   - [https://www.joshwcomeau.com/](https://www.joshwcomeau.com/)
 
