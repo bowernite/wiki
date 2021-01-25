@@ -10,7 +10,7 @@
 
 - Select smaller onions when cooking for two
 - Select smaller potatoes
-  - Taste better \(more moisture and flavor, creamier texture\)
+  - Taste better (more moisture and flavor, creamier texture)
   - Better when cooking for two
 - Chop your own garlic
   - Tastes better than pre-made garlic
