@@ -9,6 +9,8 @@
 - [You can add groovy wavy underlines using CSS! The `text-decoration` property actually takes 3 values](https://twitter.com/JoshWComeau/status/1264323456302231553)
 - [CSS `clamp` function. It lets you clamp a value between a min and max, _across units_](https://twitter.com/JoshWComeau/status/1262529531417636866)
 - Focus outlines are important for accessibility, but they can't be rounded. Simulate 'em with box-shadow! ([source](https://twitter.com/JoshWComeau/status/1356741451405807616))
+- [There's significant performance hit with nested CSS grids](https://twitter.com/JoshWComeau/status/1356384886244839424)
+  - Other than the nested case, though, don't worry about CSS Grid causing performance issues
 
 ## Links
 
