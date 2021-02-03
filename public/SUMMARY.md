@@ -10,6 +10,8 @@
 - [Ideas](ideas/ideas.md)
   - [Leveraging and Training our Brain's autopilot](ideas/training-brain-autopilot.md)
   - [Keys](ideas/keys.md)
+- [Web Design](web-design/web-design.md)
+  - [Inspirations](web-design/inpsirations.md)
 - [Laundry](laundry.md)
 - [Handywork](handywork.md)
 - [Cooking](cooking.md)
