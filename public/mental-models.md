@@ -9,3 +9,5 @@
 ## Notes
 
 ## Links
+
+- [How great leaders inspire action | Simon Sinek - YouTube](https://www.youtube.com/watch?v=qp0HIF3SfI4&feature=youtu.be)
