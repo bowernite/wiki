@@ -10,4 +10,4 @@
 
 ## Links
 
-- [How great leaders inspire action | Simon Sinek - YouTube](https://www.youtube.com/watch?v=qp0HIF3SfI4&feature=youtu.be)
+- [How great leaders inspire action | Simon Sinek - YouTube](https://www.youtube.com/watch?v=qp0HIF3SfI4&feature=youtu.be) - People don't buy what you do, they buy why you do it
