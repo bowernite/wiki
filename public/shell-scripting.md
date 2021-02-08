@@ -25,3 +25,4 @@ Notes on shell scripting, as well as some zsh- and bash-specific stuff.
 
 - [Lowercasing and Uppercasing strings in bash/zsh](https://scriptingosx.com/2019/12/upper-or-lower-casing-strings-in-bash-and-zsh/)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
+- [Assigning default values to shell variables with a single command in bash - Stack Overflow](https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell-variables-with-a-single-command-in-bash)
