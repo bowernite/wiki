@@ -1,7 +1,7 @@
 # Table of contents
 
 - [Introduction](README.md)
-- [Software](software/software.md)
+- Software
   - [npm](software/npm.md)
   - [Web RTC](software/web-rtc.md)
   - [Programming Languages](software/programming-languages.md)
