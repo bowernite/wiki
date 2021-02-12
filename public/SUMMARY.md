@@ -17,7 +17,7 @@
 - [Career](career/career.md)
   - [Inspirations](career/inspirations.md)
   - [Job Hunting](career/job-hunting.md)
-- [Well Being](well-being/well-being.md)
+- Well Being
   - [Health](well-being/health.md)
   - [Laundry](well-being/laundry.md)
   - [Oral Hygiene](well-being/oral-hygiene.md)
@@ -27,7 +27,7 @@
   - [Leveraging and Training our Brain's autopilot](ideas/training-brain-autopilot.md)
   - [Keys](ideas/keys.md)
   - [Mental Models](ideas/mental-models.md)
-- [Craft](craft.md)
+- Craft
   - [Parenting](craft/parenting.md)
   - [Handywork](craft/handywork.md)
   - [Cooking](craft/cooking.md)
