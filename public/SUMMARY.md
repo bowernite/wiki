@@ -32,3 +32,5 @@
 - [Quantum Computing](quantum-computing.md)
 - [German](german.md)
 - [Career](career.md)
+- [Project Management](project-management/project-management.md)
+  - [Lean](project-management/lean.md)
