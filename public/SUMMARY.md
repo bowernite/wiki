@@ -24,6 +24,7 @@
   - [Oral Hygiene](well-being/oral-hygiene.md)
   - [Raynaud’s](well-being/raynauds.md)
   - [Flexibility](well-being/flexibility.md)
+  - [Skin Care](well-being/skin-care.md)
 - [Ideas](ideas/ideas.md)
   - [Leveraging and Training our Brain's autopilot](ideas/training-brain-autopilot.md)
   - [Keys](ideas/keys.md)
