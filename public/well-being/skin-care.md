@@ -1,13 +1,22 @@
 # Skin Care
 
-## Routine (WIP)
+## Routine
 
-- In the morning, use use a **SPF moisturizer**, like [Kiehl's](https://smile.amazon.com/Ultra-Facial-Cream-SPF-30-1-7oz/dp/B07FL8JPGY/ref=sr_1_6?dchild=1&keywords=Kiehl%27s+Ultra+Facial+Cream+Sunscreen+SPF+30&qid=1613685805&sr=8-6)
-- At night, wash 
+### Morning
 
-## Products
+1. Wash hands
+2. Rinse face with warm water
+   - <details><summary>Reasoning for not washing</summary>Most people will only need to really wash their face once a day. In the morning, rinsing with warm water before applying moisturizer and sunscreen should suffice ([source](https://www.nm.org/healthbeat/healthy-tips/do-you-really-need-a-skin-care-routine))</details>
+3. With face still damp, apply [Kiehl's Ultra Facial Cream Sunscreen SPF 30](https://www.amazon.co.uk/Kiehls-Ultra-Facial-Cream-Sunscreen/dp/B01N788Z2A)
 
-- I've seen [Kiehl's](https://shop-links.co/1697698682968895424) mentioned a lot
+### Before Bed
+
+1. Cleanse with warm water and (for now) any face wash
+2. With face still damp, apply [Kiehl's Nighttime Hydrating Masque](https://www.amazon.co.uk/Kiehls-Facial-Overnight-Hydrating-Masque/dp/B008S5CV06)
+
+### Other things I could do
+
+I could add things like toner, exfoliant, and serums, but my impression as of right now is that they're mostly cosmetic or don't apply to my skin type, so it's not worth it.
 
 ## Notes
 
