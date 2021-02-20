@@ -11,6 +11,7 @@
   - [macOS](software/macos.md)
   - [Networking](software/computer-networking.md)
   - [React](software/react.md)
+  - [Backups](software/backups.md)
 - [Web Design](web-design/web-design.md)
   - [Inspirations](web-design/inpsirations.md)
 - [Project Management](project-management/project-management.md)
