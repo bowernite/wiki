@@ -20,9 +20,12 @@ Notes on shell scripting, as well as some zsh- and bash-specific stuff.
   - But can get around it using `$?`:
     - `(grep foo bar.txt); var1=$?`
   - [bash - Assigning exit code to a shell local variable - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/207957/assigning-exit-code-to-a-shell-local-variable)
+- [macOS has a weird quirk where filenames with a `:` show a `/` for them instead](https://stackoverflow.com/questions/13298434/colon-appears-as-forward-slash-when-creating-file-name)
+  - Can get around this if you need to by using this guy instead: `꞉` -- it's a different character but looks pretty similar
 
 ## Links
 
 - [Lowercasing and Uppercasing strings in bash/zsh](https://scriptingosx.com/2019/12/upper-or-lower-casing-strings-in-bash-and-zsh/)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
 - [Assigning default values to shell variables with a single command in bash - Stack Overflow](https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell-variables-with-a-single-command-in-bash)
+- [zsh - string substitutions: all occurrences - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/115438/string-substitutions-all-occurrences)
