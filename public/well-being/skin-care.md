@@ -6,7 +6,7 @@
 
 1. Wash hands
 2. Rinse face with warm water
-   - <details><summary>Reasoning for not washing</summary>Most people will only need to really wash their face once a day. In the morning, rinsing with warm water before applying moisturizer and sunscreen should suffice ([source](https://www.nm.org/healthbeat/healthy-tips/do-you-really-need-a-skin-care-routine))</details>
+   - Reasoning for not washing: Most people will only need to really wash their face once a day. In the morning, rinsing with warm water before applying moisturizer and sunscreen should suffice ([source](https://www.nm.org/healthbeat/healthy-tips/do-you-really-need-a-skin-care-routine))
 3. With face still damp, apply [Kiehl's Ultra Facial Cream Sunscreen SPF 30](https://www.amazon.co.uk/Kiehls-Ultra-Facial-Cream-Sunscreen/dp/B01N788Z2A)
 
 ### Before Bed
