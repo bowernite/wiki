@@ -26,6 +26,7 @@
   - [Raynaud’s](well-being/raynauds.md)
   - [Flexibility](well-being/flexibility.md)
   - [Skin Care](well-being/skin-care.md)
+  - [Hair](well-being/hair.md)
 - [Ideas](ideas/ideas.md)
   - [Leveraging and Training our Brain's autopilot](ideas/training-brain-autopilot.md)
   - [Keys](ideas/keys.md)
