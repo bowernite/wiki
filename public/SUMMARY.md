@@ -3,7 +3,6 @@
 - [Introduction](README.md)
 - Software
   - [npm](software/npm.md)
-  - [Web RTC](software/web-rtc.md)
   - [Programming Languages](software/programming-languages.md)
   - [Terminal](software/terminal.md)
   - [HTML / CSS](software/html-css.md)
@@ -12,6 +11,7 @@
   - [Networking](software/networking/computer-networking.md)
     - [TCP](software/networking/tcp.md)
     - [WebSockets](software/networking/web-sockets.md)
+    - [Web RTC](software/networking/web-rtc.md)
   - [React](software/react.md)
   - [Backups](software/backups.md)
 - [Web Design](web-design/web-design.md)
