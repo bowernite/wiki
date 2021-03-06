@@ -5,3 +5,5 @@ Project management is something has has uninentionally caught my eye for some ti
 ## Notes
 
 ## Links
+
+- [Applying Intel’s Tick-Tock model to software development – Method in Madness by Dovetail](https://dovetailapp.com/blog/intel-tick-tock-model-software-development/)
