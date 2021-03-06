@@ -6,3 +6,5 @@
 - Sed is for search and replace; Awk is for programatically handling and processing lines
 
 ## Links
+
+- [Unix Sed Command to Delete Lines in File - 15 Examples](https://www.folkstalk.com/2013/03/sed-remove-lines-file-unix-examples.html)
