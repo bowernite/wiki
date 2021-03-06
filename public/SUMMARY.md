@@ -14,6 +14,7 @@
     - [Web RTC](software/networking/web-rtc.md)
   - [React](software/react.md)
   - [Backups](software/backups.md)
+  - [Unix](software/unix.md)
 - [Web Design](web-design/web-design.md)
   - [Inspirations](web-design/inpsirations.md)
 - [Project Management](project-management/project-management.md)
