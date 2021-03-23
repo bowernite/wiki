@@ -1,17 +1,17 @@
 {
   "search.useIgnoreFiles": false,
   "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#1a4427",
+    "titleBar.activeBackground": "#215732",
     "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#1a442799",
+    "titleBar.inactiveBackground": "#21573299",
     "titleBar.inactiveForeground": "#e7e7e799",
-    "activityBar.activeBackground": "#28693c",
-    "activityBar.activeBorder": "#35235c",
-    "activityBar.background": "#28693c",
+    "activityBar.activeBackground": "#2f7c47",
+    "activityBar.activeBorder": "#422c74",
+    "activityBar.background": "#2f7c47",
     "activityBar.foreground": "#e7e7e7",
     "activityBar.inactiveForeground": "#e7e7e799",
-    "activityBarBadge.background": "#35235c",
+    "activityBarBadge.background": "#422c74",
     "activityBarBadge.foreground": "#e7e7e7"
   },
-  "peacock.color": "#1a4427"
+  "peacock.color": "#215732"
 }
