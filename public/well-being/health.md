@@ -1,5 +1,11 @@
 # Health
 
+## Hoarse throat
+
+- Gargling with warm salt water can help
+- Whispering is bad -- it sends air through the vocal chords, which dries them out
+- Ice cream and cough drops numb the pain (the throat feels better), but doesn't heal anything
+
 ## Notes
 
 - Inflammation
