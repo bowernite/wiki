@@ -39,7 +39,7 @@
   - [Handywork](craft/handywork.md)
   - [Cooking](craft/cooking.md)
   - [Golf](craft/golf/golf.md)
-    - [Personal](craft/golf/personal-golf-notes.md)
+    - [Personal](craft/golf/personal.md)
 - [Miscellaneous](misc.md)
 - [Note Taking and Memory](note-taking-and-memory.md)
 - [GTD](gtd.md)
