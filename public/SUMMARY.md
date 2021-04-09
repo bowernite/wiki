@@ -24,6 +24,7 @@
   - [Job Hunting](career/job-hunting.md)
 - Well Being
   - [Health](well-being/health.md)
+  - [Sleep](well-being/sleep.md)
   - [Laundry](well-being/laundry.md)
   - [Oral Hygiene](well-being/oral-hygiene.md)
   - [Raynaud’s](well-being/raynauds.md)
