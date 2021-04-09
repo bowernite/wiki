@@ -20,6 +20,7 @@ Much of our biological system and clock is anchored by the neurons in our eyes r
 - Low or very dim lights will not affect this clock very much (e.g. candles, lights on the floor)
   - Example of a scientist "turning his home into a cave" at night to help with this
 - "Get outside" to get this light and exercise early in the day
+  - The light taken in through a window is ~50x less than if you were outside
 - The amount of time depends on where you live (because of the sun exposure
   - But basically get outside at sunrise and sunset
   - "2-10 minutes" should be enough for most people/places
