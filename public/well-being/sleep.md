@@ -8,7 +8,7 @@ Much of our biological system and clock is anchored by the neurons in our eyes r
 
 - Getting this light tells the body when to be awake and when to sleep
 - Getting sunlight-like light early will, after 2-3 days, result in you being more wakeful earlier
-  - Also has effects on other things (a lot of things were listed of, but I can't remember)
+  - Also has effects on other things, like mood, health, etc.
 
 ### How it works/how to get it
 
