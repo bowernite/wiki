@@ -31,6 +31,15 @@ Much of our biological system and clock is anchored by the neurons in our eyes r
   - Fun fact: The holes in the skull for eyes developed not for vision, but initially for this intake of light. Snakes, for examples, have holes in their skull purely for this purpose
 - Studies have shown that getting blue light between 11pm-4am suppresses dopamine output, which can effect mood
   - Fine if it just happens one time/rarely, but not good as a habit
+- Turning on (overhead) lights 45-60 minutes before you wake up can be beneficial for setting your clock
+- Short naps around the afternoon can be beneficial
+  - If you're waking up groggy from naps, you're not getting enough sleep at night
+- Can also use "non-sleep deep rest"
+  - Forms of relaxation for the mind that don't necessarily put the mind to sleep
+    - Yoga Nidra
+    - Meditation
+    - Hypnosis
+  - These can help train the mind better, so that it can relax when it's time to sleep at night
 
 ## Notes
 
