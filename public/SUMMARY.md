@@ -47,3 +47,4 @@
 - [Quantum Computing](quantum-computing.md)
 - [German](german.md)
 - [German Culture](german-culture.md)
+- [Mechanical Keyboards](mechanical-keyboards.md)
