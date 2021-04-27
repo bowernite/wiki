@@ -1,6 +1,4 @@
-# Note Taking and Memory
-
-Notes and strategies for taking notes and remembering things you want to remember
+# Learning
 
 ## Remembering What you Read
 
@@ -18,4 +16,18 @@ _With P.A.R.A. you organize all your notes by purpose, not by category. Let’s 
 
 ## Notes
 
+- Neuroplasticity: the ability of neural networks in the brain to change through growth and reorganization
+- To increase neuroplasticity:
+  - Sleep
+  - Non-Sleep Deep Rest (meditation, yoga, yoga nidra, hypnosis)
+- Ultradian, 90min cycles optimized for learning
+  - Transition into focus mode early in the cycle when it's hard to focus (optimizes learning)
+  - Very hard to focus at the end of the 90min
+- Study showed that Non-Sleep Deep Rest immediately after learning accelerated learning
+  - Both amount of info learned, and retention of it
+
 ## Links
+
+- [Yoga Nidra - Guided Meditation to Relax | 10min - YouTube](https://www.youtube.com/watch?v=M0u9GST_j3s&t=48s)
+- [I AM Yoga Nidra™ led by Liam Gillen - YouTube](https://www.youtube.com/watch?v=FroVfmOtaps
+- [Reveri - Digital Hypnosis (Non-Sleep Deep Rest)](https://www.reveri.com/)

@@ -25,6 +25,9 @@
 - Well Being
   - [Health](well-being/health.md)
   - [Sleep](well-being/sleep.md)
+  - [Learning](learning.md)
+  - [Diet](diet.md)
+  - [Exercise](exercise.md)
   - [Laundry](well-being/laundry.md)
   - [Oral Hygiene](well-being/oral-hygiene.md)
   - [Raynaud’s](well-being/raynauds.md)
@@ -42,7 +45,6 @@
   - [Golf](craft/golf/golf.md)
     - [Personal](craft/golf/personal.md)
 - [Miscellaneous](misc.md)
-- [Note Taking and Memory](note-taking-and-memory.md)
 - [GTD](gtd.md)
 - [Quantum Computing](quantum-computing.md)
 - [German](german.md)

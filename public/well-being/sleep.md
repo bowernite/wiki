@@ -39,8 +39,19 @@ Much of our biological system and clock is anchored by the neurons in our eyes r
     - Yoga Nidra
     - Meditation
     - Hypnosis
+    - 20min sleep (_almost_ not quite, but almost because you rarely drop into deep sleep)
   - These can help train the mind better, so that it can relax when it's time to sleep at night
+- After a few days of sleeping/waking at the same times, body will secrete hormones around those times to encourage sleeping/waking
+
+## Sleep Paralysis
+
+- Atonia: When the muscle can't move
+- Marijuana smokers report higher frequency
 
 ## Notes
 
 ## Links
+
+- [Yoga Nidra - Guided Meditation to Relax | 10min - YouTube](https://www.youtube.com/watch?v=M0u9GST_j3s&t=48s)
+- [I AM Yoga Nidra™ led by Liam Gillen - YouTube](https://www.youtube.com/watch?v=FroVfmOtaps
+- [Reveri - Digital Hypnosis (Non-Sleep Deep Rest)](https://www.reveri.com/)
