@@ -22,7 +22,7 @@
 - [Career](career/career.md)
   - [Inspirations](career/inspirations.md)
   - [Job Hunting](career/job-hunting.md)
-- Well Being
+- [Well Being](well-being/well-being.md)
   - [Health](well-being/health.md)
   - [Sleep](well-being/sleep.md)
   - [Learning](learning.md)

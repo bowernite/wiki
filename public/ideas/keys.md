@@ -24,7 +24,7 @@ Sometimes, just knowing about something is the "key" to being able to advance in
   - Basically everything Michael Simmons has blogged about
   - Skim books, read first and last chapter, read summaries, read reviews, listen to podcasts about the books
   - Fundamentally, the idea that we don't need to read things 100% of the way through -- just get the nuggets we're looking for
-  - Also, there's some stat about successful entrepreneurs only reading like 10% of the books in their libraries \(Bill Gates, Zuckerberg\)
+  - Also, there's some stat about successful entrepreneurs only reading like 10% of the books in their libraries (Bill Gates, Zuckerberg)
 - Ephemerality of memory
   - There's some stat from psychology about loss of memory learning curve. Forget 75% within first 24 hours
 - Pomodoro Method
