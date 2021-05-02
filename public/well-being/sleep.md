@@ -43,6 +43,18 @@ Much of our biological system and clock is anchored by the neurons in our eyes r
   - These can help train the mind better, so that it can relax when it's time to sleep at night
 - After a few days of sleeping/waking at the same times, body will secrete hormones around those times to encourage sleeping/waking
 
+## Defeating jet lag
+
+To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 days before you travel.
+
+- Based around your temperature minimum, which happens 2.5hrs before you wake up
+- Can **eat**, **view light**, and **exercise** around this time to advance or delay your clock
+  - Doing these in 4-5 hrs **after** your temp minimum will **advance clock backwards**, making you want to go to bed and wake up **earlier**
+  - Doing these in 4-5 hrs **before** your temp minimum will **delay your clock forwards**, making you want to go to bed and wake up **later**
+- Using this method can shift your clock 1-3 hrs per night/day you use it
+- In order to do this, you need to **track your temp minimum** (time) in wherever you're coming from
+- When you land, **eat in the local meal schedule**
+
 ## Sleep Paralysis
 
 - Atonia: When the muscle can't move
