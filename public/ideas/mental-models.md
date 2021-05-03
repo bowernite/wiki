@@ -5,6 +5,10 @@
 - [Collapsing Layers](https://www.swyx.io/collapsing-layers/): We keep adding to tech stacks, which make it more complex, less secure, and less efficient. It has benefits, but we can try to collapse the layers that go together.
 - [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect)
 - [Strategy Turns](https://www.swyx.io/strategy-turns/)
+- Motion vs Action (source: Atomic Habits [for the naming, not the idea itself])
+  - Motion is planning -- it makes you _feel_ productive, but without the risk of failure
+    - e.g. Checking emails, planning your diet, etc.
+  - Action is the actual work that you do, that produces something
 
 ## Notes
 
