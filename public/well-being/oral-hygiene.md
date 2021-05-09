@@ -17,9 +17,10 @@
     - Study: 1 minute removed **27% of plaque**, 2 minutes remove **41% of plaque**
 - Some people on Reddit do it weekly, or “whenever they feel dirty”
 - Brush tongue a few times to **remove bad breath**
-- If brushing after a meal and it had citrus **wait before brushing**
+- If brushing after a meal and it had citrus/acid (like coffee) **wait before brushing**
   - Some say wait **an hour**, others say **15-20 minutes**
   - Brushing after citrus can remove enamel
+  - Can rinse mouth before brushing teeth, to help with this
   - If you can’t wait an hour, then try brushing before eating/drinking
   - If you can’t wait an hour, rinse mouth and do gum/mints
 - Use a light touch while brushing
@@ -43,6 +44,11 @@
   - AKA where the tooth meets the gum
   - Use 45-degree angle to do so
 - Some experts say brushing before you eat breakfast is vastly more beneficial for your tooth enamel and overall oral health. ([source](https://www.healthline.com/health/should-you-brush-your-teeth-before-or-after-breakfast#:~:text=Some%20experts%20say%20brushing%20before%20you%20eat%20breakfast%20is%20vastly%20more%20beneficial%20for%20your%20tooth%20enamel%20and%20overall%20oral%20health.))
+- Eating too soon after brushing your teeth can weaken your tooth’s enamel and cause more problems down the line. ([source](https://drswansondmd.com/long-wait-eat-brushing-teeth/#:~:text=Eating%20too%20soon%20after%20brushing%20your%20teeth%20can%20weaken%20your%20tooth%E2%80%99s%20enamel%20and%20cause%20more%20problems%20down%20the%20line.))
+  - As a general rule, wait 30 minutes after brushing teeth to eat
+  - Eating after brushing washes away fluoride
+- Brushing your teeth before you have coffee removes plaque buildup and makes it more difficult for stains to adhere, said Christina Meiners, a dentist at the nonprofit CommuniCare Health Centers in San Antonio. “If you keep it nice and clean, then there’s less for [coffee] to grab onto your teeth or adhere to,” Meiners said. ([source](https://www.huffpost.com/entry/brush-teeth-before-after-coffee_l_6026c2eec5b680717ee77529#:~:text=Brushing%20your%20teeth%20before%20you%20have%20coffee%20removes%20plaque%20buildup%20and%20makes%20it%20more%20difficult%20for%20stains%20to%20adhere%2C%20said%20Christina%20Meiners%2C%20a%20dentist%20at%20the%20nonprofit%20CommuniCare%20Health%20Centers%20in%20San%20Antonio.%20%E2%80%9CIf%20you%20keep%20it%20nice%20and%20clean%2C%20then%20there%E2%80%99s%20less%20for%20%5Bcoffee%5D%20to%20grab%20onto%20your%20teeth%20or%20adhere%20to%2C%E2%80%9D%20Meiners%20said.))
+- Can rinse w/ water after coffee to neutralize the acidity level
 
 ## Flossing
 
