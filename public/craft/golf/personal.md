@@ -50,9 +50,9 @@ Some personal notes on what clubs are best for me (as of about 2020)
 Based on handicap:
 
 - Callaway Big Bertha irons - too forgiving/GI
-  - [https://www.callawaygolfpreowned.com/iron-sets/by-player-type/game-improvement/irons-2015-big-bertha.html?cgid=game-improvement-iron-sets](https://www.callawaygolfpreowned.com/iron-sets/by-player-type/game-improvement/irons-2015-big-bertha.html?cgid=game-improvement-iron-sets) \(game improvement\)
-  - [https://www.callawaygolfpreowned.com/iron-sets/by-player-type/super-game-improvement/irons-2019-big-bertha.html?cgid=super-game-improvement-iron-sets](https://www.callawaygolfpreowned.com/iron-sets/by-player-type/super-game-improvement/irons-2019-big-bertha.html?cgid=super-game-improvement-iron-sets) \(super game improvement\)
-- Titleist \(718\) AP1 Irons
+  - [https://www.callawaygolfpreowned.com/iron-sets/by-player-type/game-improvement/irons-2015-big-bertha.html?cgid=game-improvement-iron-sets](https://www.callawaygolfpreowned.com/iron-sets/by-player-type/game-improvement/irons-2015-big-bertha.html?cgid=game-improvement-iron-sets) (game improvement)
+  - [https://www.callawaygolfpreowned.com/iron-sets/by-player-type/super-game-improvement/irons-2019-big-bertha.html?cgid=super-game-improvement-iron-sets](https://www.callawaygolfpreowned.com/iron-sets/by-player-type/super-game-improvement/irons-2019-big-bertha.html?cgid=super-game-improvement-iron-sets) (super game improvement)
+- Titleist (718) AP1 Irons
   - [https://www.globalgolf.com/golf-clubs/1041742-titleist-718-ap1-iron-set/](https://www.globalgolf.com/golf-clubs/1041742-titleist-718-ap1-iron-set/)
 - Taylormade M2 2017 \* [https://www.globalgolf.com/golf-clubs/1037645-taylormade-m2-2017-iron-set/\_](https://www.globalgolf.com/golf-clubs/1037645-taylormade-m2-2017-iron-set/_)
 

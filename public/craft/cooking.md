@@ -29,9 +29,9 @@
   - In order for fresh vegetables and meats to cook quickly, it’s necessary to cut them into thin slices so that the heat can penetrate
   - Make cuts according to recipe directions
 - Oils
-  - Extra Virgin Olive Oil \(EVOO\) for salad dressings and uncooked foods
+  - Extra Virgin Olive Oil (EVOO) for salad dressings and uncooked foods
   - Regular Olive Oil for cooking
-  - These are the healthiest with flavor \(a little more expensive\)
+  - These are the healthiest with flavor (a little more expensive)
   - EVOO has low smoke point, so can only be used up to ~medium on stovetop
   - Regular olive oil can be used up to medium high
   - Anything else, and you’ll need something like vegetable, canola, avocado oil for their lower smoke points

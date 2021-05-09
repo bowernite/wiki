@@ -12,14 +12,14 @@ A lot of the notes here were taken down from a book 🙈
   - e.g. Always wait for traffic signal to cross the street. If you don't, people might yell/lecture at you
 - Sense of humor
   - Stigma that they don't have one, but it's just different
-  - Dry, very timely \(relates to the news of that week\)
+  - Dry, very timely (relates to the news of that week)
 - People do research before purchases
 - Emphasis on the value of products vs. the marketing of them
 - Be punctual
   - Even for a party, showing up more than 15 minutes late might be offensive
 - Insurance
   - There's an insurance to cover legal fees, should you ever need it
-  - There's "personal liability insurance" that is pretty standard -- covers you in the event that you do anything wrong \(i.e. break a friend's vase\)
+  - There's "personal liability insurance" that is pretty standard -- covers you in the event that you do anything wrong (i.e. break a friend's vase)
 - Customer service isn't great in Germany
 - Work is a place for work
   - Shorter work week, but more efficient when there

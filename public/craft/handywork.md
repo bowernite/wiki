@@ -13,7 +13,7 @@ I don't know if there's a better word for this. Just like... handy stuff to do a
 
 - Hammer drill: For drilling a hole in the wall
 - Plastic anchors: To anchor the screw
-- Masonary bit: For drilling pilot hold with drill \(1/4”\). Measure shank of drill bit. It should be the same size or 1/16” bigger than the anchor. You should have trouble getting it into wall
+- Masonary bit: For drilling pilot hold with drill (1/4”). Measure shank of drill bit. It should be the same size or 1/16” bigger than the anchor. You should have trouble getting it into wall
 
 ## Notes
 

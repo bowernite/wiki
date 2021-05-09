@@ -1,6 +1,6 @@
 # Raynaud’s
 
-I suffer \(that's too strong of a word, but whatever\) from a "disease" called "Raynaud's Syndrome". That means my circulation can be really bad sometimes to my feet and hands, causing them to be super cold and sometimes numb. This can even be caused by being in an airconditioned room.
+I suffer (that's too strong of a word, but whatever) from a "disease" called "Raynaud's Syndrome". That means my circulation can be really bad sometimes to my feet and hands, causing them to be super cold and sometimes numb. This can even be caused by being in an airconditioned room.
 
 ## Notes
 
@@ -25,17 +25,17 @@ I suffer \(that's too strong of a word, but whatever\) from a "disease" called "
   - Warm water
   - Massage hands and feet
 - Alternative medicine
-  - Fish oil \(improve cold tolerance\)
-  - Ginkgo \(decrease number of attacks\)
-  - Acupuncture \(improve blood flow\)
-- Doctor: practitioner, or specialist \(rheumatologist\)
+  - Fish oil (improve cold tolerance)
+  - Ginkgo (decrease number of attacks)
+  - Acupuncture (improve blood flow)
+- Doctor: practitioner, or specialist (rheumatologist)
 - Why a doctor?
   - Identify underlying condition
   - Info on minimizing frequency
 - Channel blockers as a medication
 - Biofeedback: Imagining at a warm room or beach to increase circulation. This trains the blood vessels to have this response automatically with time
 - **Probably have primary raynaud’s**
-- **2002 study on Ginkgo Biloba saw reduction in attacks by 56% \(compared to 27% for placebo\)**
+- **2002 study on Ginkgo Biloba saw reduction in attacks by 56% (compared to 27% for placebo)**
 - General practitioner, or rheumatologist
 
 ## Links

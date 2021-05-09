@@ -14,7 +14,7 @@ Notes on shell scripting, as well as some zsh- and bash-specific stuff.
 - The `export` keyword is only necessary when sub-processes need access to the variable
   - So if you don't use `export`, when you execute programs they won't have access to the variable. But **the resulting shell will**
 - To do string transformation on strings in zsh upon expansion, use [expansion flags](http://zsh.sourceforge.net/Doc/Release/Expansion.html#Parameter-Expansion-Flags)
-- To rename the current directory: `mv ../current_dir ../new_dir_name` or `mv ../{test,test2}` \(uses brace expansion for brevity\)
+- To rename the current directory: `mv ../current_dir ../new_dir_name` or `mv ../{test,test2}` (uses brace expansion for brevity)
 - [Assigning test/[[]] results to a variable](https://stackoverflow.com/questions/24896433/assigning-the-result-of-test-to-a-variable) (tl;dr: there's not a great way to do this). This _would_ be nice for code readability
 - Can't assign variable to command exit status directly
   - But can get around it using `$?`:

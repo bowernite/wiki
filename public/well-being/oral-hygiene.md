@@ -27,7 +27,7 @@
   - If bristles of brush are flattened, that means you’re brushing too hard
   - Don’t scrub; **massage** the teeth
 - Toothbrush
-  - Bristles need to be soft \(in order to get in crannies well\)
+  - Bristles need to be soft (in order to get in crannies well)
 - **How To**
   - Up-and-down in little circular motions
   - Don’t go side to side
@@ -76,19 +76,19 @@
 _**Bottomline**_: Not going to use it. Seems like a super-optimizing thing that I don’t need if I do everything else correctly
 
 - Don’t need it if you’re brushing and flossing correctly
-- Can help with breath \(could use it after lunch\)
-- Even if you did want to add it to your routine, it’d have to be after you brush your teeth, which washes away fluoride \(so fluoride can no longer have its preventative effects
+- Can help with breath (could use it after lunch)
+- Even if you did want to add it to your routine, it’d have to be after you brush your teeth, which washes away fluoride (so fluoride can no longer have its preventative effects
 - The ingredients in each mouthwash formula vary slightly — different products work for different purposes.
 - Research shows that mouthwash does help prevent plaque and gingivitis. But since formulas differ greatly and using mouthwash is tied closely to a good oral hygiene routine in general, it’s hard to definitively say how much it helps or which formula is best.
 - Mouthwash kills bacteria by using antiseptic ingredients like alcohol, menthol, and eucalyptol. These ingredients get into the crevices between your teeth and hard-to-reach places like the very back of your mouth, killing the filmy bacteria that can collect there.
 - If you have open sores or oral lesions in your mouth, you might want to try using mouthwash to kill bacteria and speed healing.
 - Its job is mostly about making your mouth “feel” fresh. “You don’t need mouthwash, but if you enjoy it, or you have bad breath and feel it helps, then there’s no substantiated risks to rinsing once or twice a day,” he says.
 - Biggest benefit is clean breath and feeling
-- Has the ability to get into places your toothbrush doesn’t \(top of mouth, back of cheeks, etc.\)
+- Has the ability to get into places your toothbrush doesn’t (top of mouth, back of cheeks, etc.)
 - Some say don’t use after brushing, some say _do_ use after brushing to get the rest
-  - Some even say use water instead \(contradicting advice about on not rinsing after brushing\)
-  - “some dentifrice ingredients \(like calcium hydroxide or aluminum hydroxide\) can form a complex with fluoride ions and reduce a mouthwash’s effectiveness. Therefore, vigorous rinsing with water may be recommended after brushing and before rinsing if these ingredients are present.”
-- There are two basic kinds of mouthwashes, the kind that just temporarily freshens your breath \(cosmetic\) and the kind that addresses oral health problems \(therapeutic\). In general, products marketed as “mouthwashes” are cosmetic and “rinses” tend to be therapeutic, but this isn’t always the case.
+  - Some even say use water instead (contradicting advice about on not rinsing after brushing)
+  - “some dentifrice ingredients (like calcium hydroxide or aluminum hydroxide) can form a complex with fluoride ions and reduce a mouthwash’s effectiveness. Therefore, vigorous rinsing with water may be recommended after brushing and before rinsing if these ingredients are present.”
+- There are two basic kinds of mouthwashes, the kind that just temporarily freshens your breath (cosmetic) and the kind that addresses oral health problems (therapeutic). In general, products marketed as “mouthwashes” are cosmetic and “rinses” tend to be therapeutic, but this isn’t always the case.
 
 ## Notes
 
