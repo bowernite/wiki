@@ -23,12 +23,8 @@
   - If you can’t wait an hour, then try brushing before eating/drinking
   - If you can’t wait an hour, rinse mouth and do gum/mints
 - Use a light touch while brushing
-
   - If bristles of brush are flattened, that means you’re brushing too hard
   - Don’t scrub; **massage** the teeth
-
-    -
-
 - Toothbrush
   - Bristles need to be soft \(in order to get in crannies well\)
 - **How To**
@@ -46,6 +42,7 @@
 - Make sure to get the gum line
   - AKA where the tooth meets the gum
   - Use 45-degree angle to do so
+- Some experts say brushing before you eat breakfast is vastly more beneficial for your tooth enamel and overall oral health. ([source](https://www.healthline.com/health/should-you-brush-your-teeth-before-or-after-breakfast#:~:text=Some%20experts%20say%20brushing%20before%20you%20eat%20breakfast%20is%20vastly%20more%20beneficial%20for%20your%20tooth%20enamel%20and%20overall%20oral%20health.))
 
 ## Flossing
 
