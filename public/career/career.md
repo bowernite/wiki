@@ -9,3 +9,4 @@
 - [About Us | Makers' Den](https://makersden.io/about)
 - [The #1 tip to familiarize with new JavaScript Codebases](https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases?ck_subscriber_id=1208760686)
 - [How to Build an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/)
+- [The Coding Career Handbook](https://www.learninpublic.org/)
