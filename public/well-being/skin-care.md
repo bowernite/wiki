@@ -37,6 +37,13 @@ I could add things like toner, exfoliant, and serums, but my impression as of ri
 - Apply extra SPF to freckles or dark spots — they're signs of sun damage. ([source](https://www.cosmopolitan.com/health-fitness/a28855/anti-sun-shaming-feature/))
 - While being bronzed does give you some level of protection, it’s only the equivalent of SPF 4 at best ([source](https://greatist.com/health/how-to-tan-safely#_noHeaderPrefixedContent))
 - There is no such thing as a safe tan. The increase in skin pigment, called melanin, which causes the tan color change in your skin is a sign of damage. ([source](https://www.fda.gov/radiation-emitting-products/tanning/risks-tanning#2))
+- [Sunscreen degredation, when to reapply](https://www.reddit.com/r/SkincareAddiction/comments/8qjur0/sun_care_so_about_reapplying_sunscreen/e0jrfbg/#:~:text=There%20are%20two%20ways%20by%20which%20sunscreen%20loses%20effectiveness%20with%20time.)
+  - Reapplication time is highly variable, and depends on a lot of things
+  - 2 things that can degrade sunscreen: UV radiation and physical
+    - UV: Spending time in sun
+    - Physical: Touching face with hands, dirt, wind, hair, clothes, tissue, pillow
+  - Some sunscreens are more organic, have better "half lives", so they last longer
+    - If half life is poor, it degrades very quickly, and mostly from UV radiation
 
 ## Notes
 
