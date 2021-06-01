@@ -31,3 +31,4 @@ Notes on shell scripting, as well as some zsh- and bash-specific stuff.
 - [Assigning default values to shell variables with a single command in bash - Stack Overflow](https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell-variables-with-a-single-command-in-bash)
 - [zsh - string substitutions: all occurrences - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/115438/string-substitutions-all-occurrences)
 - [A Quick Primer on Bash Booleans (StackOverflow)](https://stackoverflow.com/questions/19670061/bash-if-false-returns-true-instead-of-false-why)
+- [bash - How to change the output color of echo in Linux - Stack Overflow](https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux)
