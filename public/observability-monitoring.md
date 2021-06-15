@@ -13,3 +13,4 @@
 
 - [Monitoring and Observability — What’s the Difference and Why Does It Matter? – The New Stack](https://thenewstack.io/monitoring-and-observability-whats-the-difference-and-why-does-it-matter/)
 - [Telemetry in Software. There’s no getting away from telemetry… | by Vardhan Dugar | justDevTalk | Medium](https://medium.com/justdevtalk/telemetry-in-software-7e2766a58cc0)
+- [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
