@@ -58,6 +58,9 @@ I could add things like toner, exfoliant, and serums, but my impression as of ri
     - Wrinkles, uneven skin tone, loss of firmness, and aging signs ([source](https://www.nm.org/healthbeat/healthy-tips/do-you-really-need-a-skin-care-routine))
 - Rinse with warm water, because hot water removes natural oils and causes your skin to become dehydrated ([source](https://www.nm.org/healthbeat/healthy-tips/do-you-really-need-a-skin-care-routine))
 - Morning skin care should focus on prevention and protection for the day and your nighttime routine should focus on cleansing and repair. ([source](https://www.nm.org/healthbeat/healthy-tips/do-you-really-need-a-skin-care-routine))
+- The only reason you really need to moisturize is after cleansing your skin
+  - When you do that, you strip it of natural oils, so you need to replenish them
+  - Otherwise, the body is perfectly capable of providing enough moisture for your skin (unless you have extremely dry skin)
 
 ## Links
 
