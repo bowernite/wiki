@@ -9,3 +9,4 @@
 ## Links
 
 - [How to write to text replacements / How to add insert a dict into defaults preferences](https://apple.stackexchange.com/questions/110776/writing-to-nsuserdictionaryreplacementitems-with-defaults)
+- [macos - Where is the Replace/With list stored? - Ask Different](https://apple.stackexchange.com/questions/124048/where-is-the-replace-with-list-stored)
