@@ -48,6 +48,7 @@
   - [Cooking](craft/cooking.md)
   - [Golf](craft/golf/golf.md)
     - [Personal](craft/golf/personal.md)
+- [English](english.md)
 - [Miscellaneous](misc.md)
 - [GTD](gtd.md)
 - [Quantum Computing](quantum-computing.md)
