@@ -18,6 +18,7 @@
   - [Unix](software/unix.md)
   - [Observability / Monitoring](software/observability-monitoring.md)
   - [SRE](software/sre.md)
+  - [Vim](software/vim.md)
 - [Web Design](web-design/web-design.md)
   - [Inspirations](web-design/inpsirations.md)
 - [Project Management](project-management/project-management.md)
