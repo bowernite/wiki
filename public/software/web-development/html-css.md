@@ -18,3 +18,4 @@
 - [CSS for JavaScript Developers | An online course that teaches the fundamentals of CSS for React/Vue devs](https://css-for-js.dev/)
 - [Exploring the Complexities of Width and Height in CSS | CSS-Tricks](https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/)
 - [How cyclic relative sizing works](https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/)
+- [Variable fonts guide - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide)
