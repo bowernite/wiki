@@ -65,5 +65,5 @@ To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 
 ## Links
 
 - [Yoga Nidra - Guided Meditation to Relax | 10min - YouTube](https://www.youtube.com/watch?v=M0u9GST_j3s&t=48s)
-- [I AM Yoga Nidra™ led by Liam Gillen - YouTube](https://www.youtube.com/watch?v=FroVfmOtaps
+- [I AM Yoga Nidra™ led by Liam Gillen - YouTube](https://www.youtube.com/watch?v=FroVfmOtaps)
 - [Reveri - Digital Hypnosis (Non-Sleep Deep Rest)](https://www.reveri.com/)
