@@ -15,3 +15,4 @@
 - [Telemetry in Software. There’s no getting away from telemetry… | by Vardhan Dugar | justDevTalk | Medium](https://medium.com/justdevtalk/telemetry-in-software-7e2766a58cc0)
 - [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
 - ([MELT](https://newrelic.com/resources/ebooks/what-is-observability#:~:text=M.E.L.T))
+- [OpenTelemetry](https://opentelemetry.io/)
