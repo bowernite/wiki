@@ -49,6 +49,7 @@
   - Eating after brushing washes away fluoride
 - Brushing your teeth before you have coffee removes plaque buildup and makes it more difficult for stains to adhere, said Christina Meiners, a dentist at the nonprofit CommuniCare Health Centers in San Antonio. “If you keep it nice and clean, then there’s less for [coffee] to grab onto your teeth or adhere to,” Meiners said. ([source](https://www.huffpost.com/entry/brush-teeth-before-after-coffee_l_6026c2eec5b680717ee77529#:~:text=Brushing%20your%20teeth%20before%20you%20have%20coffee%20removes%20plaque%20buildup%20and%20makes%20it%20more%20difficult%20for%20stains%20to%20adhere%2C%20said%20Christina%20Meiners%2C%20a%20dentist%20at%20the%20nonprofit%20CommuniCare%20Health%20Centers%20in%20San%20Antonio.%20%E2%80%9CIf%20you%20keep%20it%20nice%20and%20clean%2C%20then%20there%E2%80%99s%20less%20for%20%5Bcoffee%5D%20to%20grab%20onto%20your%20teeth%20or%20adhere%20to%2C%E2%80%9D%20Meiners%20said.))
 - Can rinse w/ water after coffee to neutralize the acidity level
+- Electric toothbrushes are 30-40% more effective than normal ones (source: estimation from my dentist)
 
 ## Flossing
 
