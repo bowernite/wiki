@@ -1,5 +1,16 @@
 # Golf (personal notes and improvements)
 
+## Journal
+
+### 7/24/2021 - Edgewood Pines
+
+- Forgot advice below about, for short game, keeping eyes down about a second after making contact with the ball
+  - Once I remembered and did this, accuracy with putting got a lot better
+- Found success later in the round when **focusing on controlling club face throughout swing with hands** and **just focusing on the line of the club path being straight**
+- Think I'm slowly developing better habit of keeping head still without the swing
+  - Less moving pieces during swing
+  - But, still had some slices (probably was the club face)
+
 ## Swing
 
 Keep head still during swing
