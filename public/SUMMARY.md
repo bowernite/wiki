@@ -27,7 +27,7 @@
   - [Inspirations](career/inspirations.md)
   - [Job Hunting](career/job-hunting.md)
 - [Well Being](well-being/well-being.md)
-  - [Health](well-being/health.md)
+  - [Health](well-being/health/health.md)
     - [Sleep](well-being/health/sleep.md)
     - [Diet](well-being/health/diet.md)
     - [Exercise](well-being/health/exercise.md)
