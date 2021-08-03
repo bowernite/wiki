@@ -15,3 +15,5 @@
 - [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability: Krug, Steve: 9780321965516: Books - Amazon.ca](https://www.amazon.ca/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sbs_14_t_0/142-9119805-5166140?_encoding=UTF8&pd_rd_i=0321965515&pd_rd_r=24a545f2-e73d-40b5-a144-1bce4b469385&pd_rd_w=6yGuB&pd_rd_wg=881L7&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=28D4D66KJ5RYBFSYA754&psc=1&refRID=28D4D66KJ5RYBFSYA754)
 - [Learn Design for Developers from Sarah Drasner](https://frontendmasters.com/courses/design-for-developers/)
 - [Top Free Resources for Developers in 2021 | Zero To Mastery](https://zerotomastery.io/resources/)
+- [Glassmorphism in user interfaces. Another year, another UI trend is… | by Michal Malewicz | UX Collective](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9)
+- [Designing UI book](https://www.designingui.com/)
