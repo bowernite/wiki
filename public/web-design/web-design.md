@@ -17,3 +17,4 @@
 - [Top Free Resources for Developers in 2021 | Zero To Mastery](https://zerotomastery.io/resources/)
 - [Glassmorphism in user interfaces. Another year, another UI trend is… | by Michal Malewicz | UX Collective](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9)
 - [Designing UI book](https://www.designingui.com/)
+ - [Neumorphism in user interfaces. How UI trends reach for inspiration… | by Michal Malewicz | UX Collective](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
