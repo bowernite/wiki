@@ -50,6 +50,7 @@
   - [Cooking](craft/cooking.md)
   - [Golf](craft/golf/golf.md)
     - [Personal](craft/golf/personal.md)
+- [Cryptocurrency](crypto.md)
 - [English](english.md)
 - [Miscellaneous](misc.md)
 - [GTD](gtd.md)
