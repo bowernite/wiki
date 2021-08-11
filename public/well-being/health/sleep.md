@@ -62,6 +62,9 @@ To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 
 
 ## Notes
 
+- A study in the Journal of Strength and Conditioning Research found that resistance training in particular that decrease times woken up after initially falling asleep. ([source](https://casper.com/blog/how-to-sleep-on-a-plane/#:~:text=A%20study%20in%20the%20Journal%20of%20Strength%20and%20Conditioning%20Research%20found%20that%20resistance%20training%20in%20particular%20that%20decrease%20times%20woken%20up%20after%20initially%20falling%20asleep.))
+- Pills like Ambien and Benadryl have side effects such as sleepwalking, dehydration, and prolonged grogginess and put you at a higher risk of getting a blood clot on a long flight. ([source](https://casper.com/blog/how-to-sleep-on-a-plane/#:~:text=Pills%20like%20Ambien%20and%20Benadryl%20have%20side%20effects%20such%20as%20sleepwalking%2C%20dehydration%2C%20and%20prolonged%20grogginess%20and%20put%20you%20at%20a%20higher%20risk%20of%20getting%20a%20blood%20clot%20on%20a%20long%20flight.))
+
 ## Links
 
 - [Yoga Nidra - Guided Meditation to Relax | 10min - YouTube](https://www.youtube.com/watch?v=M0u9GST_j3s&t=48s)
