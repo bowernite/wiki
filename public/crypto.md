@@ -14,3 +14,4 @@
 - [How to Invest in Bitcoin Futures](https://www.investopedia.com/articles/investing/012215/how-invest-bitcoin-exchange-futures.asp)
 - [PSA to Newbies coming into Ethereum and Bitcoin: Don’t buy from any exchange that doesn’t allow you to actually withdraw your coin : ethereum](https://www.reddit.com/r/ethereum/comments/l4298i/psa_to_newbies_coming_into_ethereum_and_bitcoin/)
 - [Coinbase vs. Coinbase Pro: A Guided Example on Why You Should ALWAYS Use Coinbase Pro : CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/m5wqeu/coinbase_vs_coinbase_pro_a_guided_example_on_why/)
+- [5 Easy Steps to Transfer from Coinbase to Ledger (2021)](https://privacypros.io/ledger/transfer-from-coinbase/)
