@@ -3,6 +3,11 @@
 ## Notes
 
 - The community consensus for long term holding is hardware wallets. The most popular ones are Ledger and Trezor which are both multi-coin wallets ([source](https://www.reddit.com/r/ethereum/comments/l4298i/psa_to_newbies_coming_into_ethereum_and_bitcoin/#:~:text=The%20community%20consensus%20for%20long%20term%20holding%20is%20hardware%20wallets.%20The%20most%20popular%20ones%20are%20Ledger%20and%20Trezor%20which%20are%20both%20multi-coin%20wallets))
+- In order to buy crypto, you need to use an exchange (e.g. Coinbase, Binance)
+  - These exchanges provide security, 2FA, a place to trade crypto
+  - Then, they charge you a fee
+  - Also saw some online peer-to-peer exchanges I didn't look much into
+- Some exchanges lock you in, which many people say is just like banks again (except less robust)
 
 ## Links
 
