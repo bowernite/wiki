@@ -29,6 +29,7 @@
 - [Well Being](well-being/well-being.md)
   - [Health](well-being/health/health.md)
     - [Sleep](well-being/health/sleep.md)
+    - [Flying](well-being/health/flying.md)
     - [Diet](well-being/health/diet.md)
     - [Exercise](well-being/health/exercise.md)
     - [When to exercise](well-being/health/when-to-exercise.md)
