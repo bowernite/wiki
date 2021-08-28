@@ -23,6 +23,7 @@ Notes on shell scripting, as well as some zsh- and bash-specific stuff.
 - [macOS has a weird quirk where filenames with a `:` show a `/` for them instead](https://stackoverflow.com/questions/13298434/colon-appears-as-forward-slash-when-creating-file-name)
   - Can get around this if you need to by using this guy instead: `꞉` -- it's a different character but looks pretty similar
 - For conditionals, 0 is truthy and 1 is falsey
+- For **multline string usage**, use [HereDoc](https://linuxize.com/post/bash-heredoc/)
 
 ## Links
 

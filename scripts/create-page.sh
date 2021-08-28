@@ -15,13 +15,12 @@ if [[ -z $directory || -z $page_title ]]; then
   exit 1
 fi
 
-# TODO: Docs here
 # Construct the filename from the page_title
-# lowercase
+## lowercase
 filename=${page_title:l}
-# kebab-case
+## kebab-case
 filename=${filename// /-}
-# .md extension
+## .md extension
 filename=${filename}.md
 
 # TODO: Read this: https://linuxize.com/post/bash-heredoc/
