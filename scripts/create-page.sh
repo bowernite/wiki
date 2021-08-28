@@ -11,11 +11,19 @@
 directory=$1
 page_title=$2
 if [[ -z $directory || -z $page_title ]]; then
-  echo "Error: You must provide a directory and a page title as the first two arguments" > /dev/stderr
+  echo "Error: You must provide a directory and a page title as the first two arguments" >/dev/stderr
   exit 1
 fi
 
+# TODO: Read this: https://linuxize.com/post/bash-heredoc/
+# TODO: kebab-case the page_title for the filename
+cat <<EOF >"$directory/$page_title.md"
+# $page_title
 
+## Notes
+
+## Links
+EOF
 
 #####################################################################
 # Practice
