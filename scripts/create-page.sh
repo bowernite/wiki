@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 ################################################################################
 # WIP: Create a new wiki page
@@ -17,7 +17,7 @@ fi
 
 # TODO: Read this: https://linuxize.com/post/bash-heredoc/
 # TODO: kebab-case the page_title for the filename
-cat <<EOF >"$directory/$page_title.md"
+cat <<EOF >"$directory/${page_title// /-}.md"
 # $page_title
 
 ## Notes
