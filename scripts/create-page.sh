@@ -1,17 +1,25 @@
 #!/bin/bash
 
 ################################################################################
-# WIP: Add a wiki file to `SUMMARY.md`
+# WIP: Create a new wiki page
 #
 # Arguments:
-#
+#   $1: page_title: The title of the wiki page. No capitilzation transformations done
 ################################################################################
+
+page_title=$1
+if [[ -z $page_title ]]; then
+  echo "Error: You must provide a page title as the first argument" > /dev/stderr
+  exit 1
+fi
 
 #####################################################################
 # Practice
 #
 # Practice scripts, as I learned the utilities I needed for this script
 #####################################################################
+
+exit
 
 echo "Printing the whole line"
 awk '{print $0}' public/SUMMARY.md
