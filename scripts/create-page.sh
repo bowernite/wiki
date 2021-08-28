@@ -4,14 +4,18 @@
 # WIP: Create a new wiki page
 #
 # Arguments:
-#   $1: page_title: The title of the wiki page. No capitilzation transformations done
+#   $1: directory: Directory to put the new page
+#   $2: page_title: The title of the wiki page. No capitilzation transformations done
 ################################################################################
 
-page_title=$1
-if [[ -z $page_title ]]; then
-  echo "Error: You must provide a page title as the first argument" > /dev/stderr
+directory=$1
+page_title=$2
+if [[ -z $directory || -z $page_title ]]; then
+  echo "Error: You must provide a directory and a page title as the first two arguments" > /dev/stderr
   exit 1
 fi
+
+
 
 #####################################################################
 # Practice
