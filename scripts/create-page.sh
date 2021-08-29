@@ -35,6 +35,8 @@ cat <<EOF >"$directory/$filename"
 ## Links
 EOF
 
+# TODO: Add file to `SUMMARY.md`
+
 #####################################################################
 # Practice
 #
