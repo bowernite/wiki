@@ -24,6 +24,7 @@ Notes on shell scripting, as well as some zsh- and bash-specific stuff.
   - Can get around this if you need to by using this guy instead: `꞉` -- it's a different character but looks pretty similar
 - For conditionals, 0 is truthy and 1 is falsey
 - For **multline string usage**, use [HereDoc](https://linuxize.com/post/bash-heredoc/)
+- For **stripping trailing characters**, use [parameter expansion `%`: `${var%/}`, (stripping `/`)](https://stackoverflow.com/questions/9018723/what-is-the-simplest-way-to-remove-a-trailing-slash-from-each-parameter)
 
 ## Links
 
