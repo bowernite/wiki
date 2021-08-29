@@ -8,23 +8,39 @@
 #   $2: page_title: The title of the wiki page. No capitilzation transformations done
 ################################################################################
 
-directory=$1
-page_title=$2
-if [[ -z $directory || -z $page_title ]]; then
-  echo "Error: You must provide a directory and a page title as the first two arguments" >/dev/stderr
+set -e
+
+root="$1"
+page_title="$2"
+if [[ -z $root || -z $page_title ]]; then
+  echo "Error: You must provide a root and a page title as the first two arguments" >/dev/stderr
   exit 1
 fi
 
 # Construct the filename from the page_title
 ## lowercase
-filename=${page_title:l}
+filename="${page_title:l}"
 ## kebab-case
-filename=${filename// /-}
+filename="${filename// /-}"
 ## .md extension
-filename=${filename}.md
+filename="${filename}.md"
 
-# Strip the trailing `/` from the given directory, so we know we definitely need to add one
-directory=${directory%/}
+# If given a file as the root, convert it to a parent/directory
+if [[ $root == *\.md ]]; then
+  # Make a directory for the given root, without the .md
+  original_md_file="$root"
+  directory="${root%.md}"
+  mkdir "$directory"
+
+  # Move the .md file into the new directory
+  original_md_filename=$(basename $original_md_file)
+  mv "$original_md_file" "$directory/$original_md_filename"
+else
+  directory="$root"
+fi
+
+# Strip the trailing `/` from the directory, so we know we definitely need to add one
+directory="${directory%/}"
 
 # This is a "HereDoc". https://linuxize.com/post/bash-heredoc/
 cat <<EOF >"$directory/$filename"
