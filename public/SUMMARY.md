@@ -28,6 +28,7 @@
   - [Job Hunting](career/job-hunting.md)
 - [Well Being](well-being/well-being.md)
   - [Health](well-being/health/health.md)
+    - [Hydration](well-being/health/hydration.md)
     - [Sleep](well-being/health/sleep.md)
     - [Flying](well-being/health/flying.md)
     - [Diet](well-being/health/diet.md)
