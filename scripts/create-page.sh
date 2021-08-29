@@ -26,7 +26,7 @@ filename=${filename}.md
 # Strip the trailing `/` from the given directory, so we know we definitely need to add one
 directory=${directory%/}
 
-# TODO: Read this: https://linuxize.com/post/bash-heredoc/
+# This is a "HereDoc". https://linuxize.com/post/bash-heredoc/
 cat <<EOF >"$directory/$filename"
 # $page_title
 
