@@ -4,7 +4,7 @@
 # WIP: Create a new wiki page
 #
 # Arguments:
-#   $1: directory: Directory to put the new page
+#   $1: directory: Directory to put the new page. Can either include or exclude trailing slash
 #   $2: page_title: The title of the wiki page. No capitilzation transformations done
 ################################################################################
 
@@ -22,6 +22,9 @@ filename=${page_title:l}
 filename=${filename// /-}
 ## .md extension
 filename=${filename}.md
+
+# Strip the trailing `/` from the given directory, so we know we definitely need to add one
+directory=${directory%/}
 
 # TODO: Read this: https://linuxize.com/post/bash-heredoc/
 cat <<EOF >"$directory/$filename"
