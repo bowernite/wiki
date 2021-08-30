@@ -13,5 +13,15 @@
     "activityBarBadge.background": "#422c74",
     "activityBarBadge.foreground": "#e7e7e7"
   },
-  "peacock.color": "#215732"
+  "peacock.color": "#215732",
+  "[markdown]": {
+    // "editor.quickSuggestions": {
+    //   "other": false,
+    //   "comments": false,
+    //   "strings": false
+    // },
+    "editor.wordWrapColumn": 120,
+    // "editor.rulers": [70],
+    // "editor.wordWrap": "bounded"
+  },
 }
