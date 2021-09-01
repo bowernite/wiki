@@ -4,7 +4,15 @@
 
 I could add things like toner, exfoliant, and serums, but my impression as of right now is that they're mostly cosmetic or don't apply to my skin type, so it's not worth it.
 
+## Products
+
+- Combo skin types are seen as the lucky ones. In this case, you can take your pick of the cleansers on offer. ([source](https://www.healthline.com/health/beauty-skin-care/how-often-should-you-wash-your-face#:~:text=combo%20skin%20types%20are%20seen%20as%20the%20lucky%20ones.%20in%20this%20case%2C%20you%20can%20take%20your%20pick%20of%20the%20cleansers%20on%20offer.))
+- It’s still advisable to wash twice a day and use a gentle formula “that removes impurities, deep cleans pores, helps remove makeup, and leaves the skin feeling refreshed, clean, and hydrated,” says Tim. ([source](https://www.healthline.com/health/beauty-skin-care/how-often-should-you-wash-your-face#:~:text=it%E2%80%99s%20still%20advisable%20to%20wash%20twice%20a%20day%20and%20use%20a%20gentle%20formula%20%E2%80%9Cthat%20removes%20impurities%2C%20deep%20cleans%20pores%2C%20helps%20remove%20makeup%2C%20and%20leaves%20the%20skin%20feeling%20refreshed%2C%20clean%2C%20and%20hydrated%2C%E2%80%9D%20says%20tim.))
+- Also, don’t overlook foaming cleansers. These can remove oil and aren’t too harsh on dry patches. ([source](https://www.healthline.com/health/beauty-skin-care/how-often-should-you-wash-your-face#:~:text=also%2C%20don%E2%80%99t%20overlook%20foaming%20cleansers.%20these%20can%20remove%20oil%20and%20aren%E2%80%99t%20too%20harsh%20on%20dry%20patches.))
+
 ## Do you need to wash or rinse face?
+
+Depends on skin type. Some can get away with not washing, some once per day, some twice.
 
 - After posing this question to several dermatologists, it became clear the answer wasn’t cut and dried. Some refused to jump on the no-face-wash bandwagon ([source](https://www.prevention.com/beauty/a20495994/benefits-to-not-washing-your-face/#:~:text=after%20posing%20this%20question%20to%20several%20dermatologists%2C%20it%20became%20clear%20the%20answer%20wasn%E2%80%99t%20cut%20and%20dried.%20some%20refused%20to%20jump%20on%20the%20no-face-wash%20bandwagon))
 - Unless you've been sweating heavily, have visible dirt on the skin, or have used heavy cosmetics, in some cases washing just with water is adequate ([source](https://www.prevention.com/beauty/a20495994/benefits-to-not-washing-your-face/#:~:text=unless%20you've%20been%20sweating%20heavily%2C%20have%20visible%20dirt%20on%20the%20skin%2C%20or%20have%20used%20heavy%20cosmetics%2C%20in%20some%20cases%20washing%20just%20with%20water%20is%20adequate))
@@ -14,6 +22,20 @@ I could add things like toner, exfoliant, and serums, but my impression as of ri
 - Aging skin tends to be more dry, too, and doesn’t require being washed twice a day. “As you get older, you stop making natural moisturizers that young skin does,” Xu said. “So cleaners can be extra harsh on skin that’s a little bit more weathered.” ([source](https://www.huffpost.com/entry/how-often-wash-face_l_5e7e07b6c5b661492265f7f6#:~:text=aging%20skin%20tends%20to%20be%20more%20dry%2C%20too%2C%20and%20doesn%E2%80%99t%20require%20being%20washed%20twice%20a%20day.%20%E2%80%9Cas%20you%20get%20older%2C%20you%20stop%20making%20natural%20moisturizers%20that%20young%20skin%20does%2C%E2%80%9D%20xu%20said.%20%E2%80%9Cso%20cleaners%20can%20be%20extra%20harsh%20on%20skin%20that%E2%80%99s%20a%20little%20bit%20more%20weathered.%E2%80%9D))
 - People who don’t wear a lot of makeup and don’t put [products] on their face and don’t really get oily, that’s the kind of skin type that doesn’t necessarily need to be washing their face religiously. ([source](https://www.huffpost.com/entry/how-often-wash-face_l_5e7e07b6c5b661492265f7f6#:~:text=people%20who%20don%E2%80%99t%20wear%20a%20lot%20of%20makeup%20and%20don%E2%80%99t%20put%20%5Bproducts%5D%20on%20their%20face%20and%20don%E2%80%99t%20really%20get%20oily%2C%20that%E2%80%99s%20the%20kind%20of%20skin%20type%20that%20doesn%E2%80%99t%20necessarily%20need%20to%20be%20washing%20their%20face%20religiously.))
 - Dry or sensitive skin types are fine to cleanse once in the evening, but oily skin might require you to cleanse at least twice a day, King said. However, if you complete a sweaty workout or wear heavy makeup, she recommends always washing your face after the gym or before bed. ([source](https://www.insider.com/should-you-wash-your-face-in-the-shower-dermatologists-advise-2019-6#:~:text=dry%20or%20sensitive%20skin%20types%20are%20fine%20to%20cleanse%20once%20in%20the%20evening%2C%20but%20oily%20skin%20might%20require%20you%20to%20cleanse%20at%20least%20twice%20a%20day%2C%20king%20said.%20however%2C%20if%20you%20complete%20a%20sweaty%20workout%20or%20wear%20heavy%20makeup%2C%20she%20recommends%20always%20washing%20your%20face%20after%20the%20gym%20or%20before%20bed.))
+
+## Effect of seasons (winter)
+
+Acne/breakouts 11% worse in winter due to cold, wind, stress.
+
+- Winter tends to be the driest time of the year, and so even people who typically have a clear complexion may notice a few more blemishes than usual. ([source](https://time.com/5454229/acne-skin-breakouts-winter/#:~:text=winter%20tends%20to%20be%20the%20driest%20time%20of%20the%20year%2C%20and%20so%20even%20people%20who%20typically%20have%20a%20clear%20complexion%20may%20notice%20a%20few%20more%20blemishes%20than%20usual.))
+- The shock of cold weather can also promote acne ([source](https://time.com/5454229/acne-skin-breakouts-winter/#:~:text=the%20shock%20of%20cold%20weather%20can%20also%20promote%20acne))
+- Oil-free skin moisturizers can help, Friedman says. Apply them to damp skin—for example, right after you get out of the shower—and they can lock in moisture and prevent your skin from overreacting to the stresses of dry winter weather. ([source](https://time.com/5454229/acne-skin-breakouts-winter/#:~:text=oil-free%20skin%20moisturizers%20can%20help%2C%20friedman%20says.%20apply%20them%20to%20damp%20skin%E2%80%94for%20example%2C%20right%20after%20you%20get%20out%20of%20the%20shower%E2%80%94and%20they%20can%20lock%20in%20moisture%20and%20prevent%20your%20skin%20from%20overreacting%20to%20the%20stresses%20of%20dry%20winter%20weather.))
+- He also recommends covering your face with a scarf or some other form of protection when you’re outdoors. Cold and windy conditions can draw moisture out of your skin and also promote inflammation. ([source](https://time.com/5454229/acne-skin-breakouts-winter/#:~:text=he%20also%20recommends%20covering%20your%20face%20with%20a%20scarf%20or%20some%20other%20form%20of%20protection%20when%20you%E2%80%99re%20outdoors.%20cold%20and%20windy%20conditions%20can%20draw%20moisture%20out%20of%20your%20skin%20and%20also%20promote%20inflammation.))
+- Nagler recommends using a mild skin cleanser and avoiding all exfoliating scrubs. Exfoliators can worsen the dryness caused by winter conditions. ([source](https://time.com/5454229/acne-skin-breakouts-winter/#:~:text=nagler%20recommends%20using%20a%20mild%20skin%20cleanser%20and%20avoiding%20all%20exfoliating%20scrubs.%20exfoliators%20can%20worsen%20the%20dryness%20caused%20by%20winter%20conditions.))
+
+## Do you need to wash your face as an adult?
+
+Pretty much couldn't find anything in this category. Going to guess yes, based on other notes listing reasons for needing to wash skin.
 
 ## Notes
 
@@ -26,8 +48,13 @@ I could add things like toner, exfoliant, and serums, but my impression as of ri
   - Otherwise, the body is perfectly capable of providing enough moisture for your skin (unless you have extremely dry skin)
 - Even if your hands don't look or feel dirty, it's always best to wash them before touching your face, according to Hu. ([source](https://www.insider.com/should-you-wash-your-face-in-the-shower-dermatologists-advise-2019-6#:~:text=even%20if%20your%20hands%20don't%20look%20or%20feel%20dirty%2C%20it's%20always%20best%20to%20wash%20them%20before%20touching%20your%20face%2C%20according%20to%20hu.))
 - As long as you are not using scorching-hot water or harsh soaps, washing your face while you're in the shower will save you time, save water, and give you a deeper cleaning to prep your skin for the rest of your skin-care routine ([source](https://www.insider.com/should-you-wash-your-face-in-the-shower-dermatologists-advise-2019-6#:~:text=as%20long%20as%20you%20are%20not%20using%20scorching-hot%20water%20or%20harsh%20soaps%2C%20washing%20your%20face%20while%20you're%20in%20the%20shower%20will%20save%20you%20time%2C%20save%20water%2C%20and%20give%20you%20a%20deeper%20cleaning%20to%20prep%20your%20skin%20for%20the%20rest%20of%20your%20skin-care%20routine))
+- Your face’s “T-zone”—basically, your forehead, nose and chin ([source](https://time.com/5454229/acne-skin-breakouts-winter/#:~:text=your%20face%E2%80%99s%20%E2%80%9Ct-zone%E2%80%9D%E2%80%94basically%2C%20your%20forehead%2C%20nose%20and%20chin))
+- Worrying and other forms of emotional stress can also trigger a breakout. Making time for activities that mellow you out—stuff like exercise, yoga and meditation—may ease your anxiety and help you avoid stress pimples. ([source](https://time.com/5454229/acne-skin-breakouts-winter/#:~:text=Worrying,us))
+- A big theme I'm noticing is that skin types and faces are all so different. A lot of times someone can, for example, stop using face wash, but that would be terrible for another individual
+- General consensus is washing with cleanser not more than 2 times per day (strips skin of oils too much, dries skin too much), at least 1 time per day, and some people can get away with no cleanser at all
 
 ## Links
 
 - [Do You Really Need a Skin Care Routine? | Northwestern Medicine](https://www.nm.org/healthbeat/healthy-tips/do-you-really-need-a-skin-care-routine)
 - [The Best Minimalist Skincare Regimen, According to Dermatologists](https://www.mensjournal.com/style/the-best-minimalist-skincare-regimen-according-to-dermatologists/)
+- [Face washing 101](https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101)
