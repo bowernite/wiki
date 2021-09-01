@@ -41,6 +41,7 @@
   - [Laundry](well-being/laundry.md)
   - [Hygiene](well-being/hygiene/hygiene.md)
     - [Oral Hygiene](well-being/hygiene/oral-hygiene/oral-hygiene.md)
+      - [Buying a Toothbrush](well-being/hygiene/oral-hygiene/buying-a-toothbrush.md)
       - [Flossing](well-being/hygiene/oral-hygiene/flossing.md)
   - [Raynaud’s](well-being/raynauds.md)
   - [Skin Care](well-being/skin-care/skin-care.md)
