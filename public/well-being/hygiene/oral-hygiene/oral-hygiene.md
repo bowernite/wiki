@@ -75,41 +75,6 @@
 
 - The "whitening" toothpastes don't really whiten the way white strips do. The toothpaste whitening just polishes away surface enamel stains. ([source](https://www.reddit.com/r/AskReddit/comments/2jmjsf/dentists_of_reddit_whats_the_best_toothbrush_to/#:~:text=the%20%22whitening%22%20toothpastes%20don't%20really%20whiten%20the%20way%20white%20strips%20do.%20The%20toothpaste%20whitening%20just%20polishes%20away%20surface%20enamel%20stains.))
 
-
-## Flossing
-
-- **Floss before brushing**
-- Seems like flossing at night is marginally better
-- Dentists: 1 time per day
-- Helps prevent gingivitis
-  - Gingivitis linked to loss of bone that holds teeth in place
-  - Gingivitis linked to Alzheimer’s
-  - “Gingivitis is inflammation of the gums, caused by bacteria taking hold between the teeth at the gum line, forming a tough, sticky “plaque.””
-- **Multiple studies** saw “very little additional removal of plaque” from flossing
-  - [https://elemental.medium.com/do-you-actually-need-to-floss-ca33c00bcd21](https://elemental.medium.com/do-you-actually-need-to-floss-ca33c00bcd21)
-- **But**, there’s problems with these studies
-  - People lie about flossing, so it’s hard to study it
-  - Can’t be a control group, as you can’t ethically enforce that someone doesn’t floss
-- Most people suck at flossing, so they don’t get the real benefit
-- Technique:
-  - Make “c” shape around the tooth
-  - Go up and down on either side 5 times
-- Try to do it every night with normal floss
-  - If that isn’t working out, **try water flossers or interdental brushes**
-- The evidence for flossing’s benefits is inconsistent in part because studies haven’t followed people long enough to detect potential improvements ([source](https://www.consumerreports.org/beauty-personal-care/should-you-bother-to-floss-your-teeth/#:~:text=the%20evidence%20for%20flossing%E2%80%99s%20benefits%20is%20inconsistent%20in%20part%20because%20studies%20haven%E2%80%99t%20followed%20people%20long%20enough%20to%20detect%20potential%20improvements))
-- The majority of available studies fail to demonstrate that flossing is generally effective in plaque removal and in reducing gingival inflammation ([source](https://www.consumerreports.org/beauty-personal-care/should-you-bother-to-floss-your-teeth/#:~:text=the%20majority%20of%20available%20studies%20fail%20to%20demonstrate%20that%20flossing%20is%20generally%20effective%20in%20plaque%20removal%20and%20in%20reducing%20gingival%20inflammation))
-- The mixed findings may also be related to how well or poorly people use dental floss. In a 2010 review of six studies, researchers at the University of Washington School of Dentistry found that when youngsters 4 to 13 had their teeth professionally flossed five days per week for 1.7 years, they saw a 40 percent drop in their cavity risk. But adolescents who flossed on their own saw no such benefit. ([source](https://www.consumerreports.org/beauty-personal-care/should-you-bother-to-floss-your-teeth/#:~:text=The%20mixed,such%20benefit.))
-- [Should You Bother to Floss Your Teeth? - Consumer Reports](https://www.consumerreports.org/beauty-personal-care/should-you-bother-to-floss-your-teeth/)
-- Flossing can help dislodge small pieces of food, along with rinsing vigorously with water after eating ([source](https://www.consumerreports.org/beauty-personal-care/should-you-bother-to-floss-your-teeth/#:~:text=flossing%20can%20help%20dislodge%20small%20pieces%20of%20food%2C%20along%20with%20rinsing%20vigorously%20with%20water%20after%20eating))
-- Flossing with a water-jet device may be especially helpful. “Water flossing has been shown to be more effective in removing plaque," Friedman says, "and is recommended by periodontists ([source](https://www.consumerreports.org/beauty-personal-care/should-you-bother-to-floss-your-teeth/#:~:text=flossing%20with%20a%20water-jet%20device%20may%20be%20especially%20helpful.%20%E2%80%9Cwater%20flossing%20has%20been%20shown%20to%20be%20more%20effective%20in%20removing%20plaque%2C%22%20friedman%20says%2C%20%22and%20is%20recommended%20by%20periodontists))
-- Even sceptics of flossing say cleaning between your teeth is good for you. A Dutch periodontist who has conducted flossing studies says he uses a toothpick. ([source](https://www.bbc.com/news/health-36962667#:~:text=even%20sceptics%20of%20flossing%20say%20cleaning%20between%20your%20teeth%20is%20good%20for%20you.%20a%20dutch%20periodontist%20who%20has%20conducted%20flossing%20studies%20says%20he%20uses%20a%20toothpick.))
-- If you have big gaps between your teeth, you don't need to worry about it ([source](https://www.reddit.com/r/NoStupidQuestions/comments/266x2q/why_are_americans_so_obsessed_with_flossing/#:~:text=if%20you%20have%20big%20gaps%20between%20your%20teeth%2C%20you%20don't%20need%20to%20worry%20about%20it))
-- Flossing isn't just to remove plaque or whatever by scraping it away... it's actually also is to disrupt bacteria colonies that "settle" in your mouth, undisturbed, kind of like an anthill or something. And by flossing you're destroying all their colonies and stomping on all the anthills... you're not just "removing gunk". ([source](super_fake_clipboard))
-  
-## Flosses (to buy)
-
-- All flosses clean effectively ([source](https://www.consumerreports.org/cro/toothbrushes/buying-guide/index.htm#:~:text=All%20flosses%20clean%20effectively))
-
 ## Mouthwash
 
 _**Bottomline**_: Not going to use it. Seems like a super-optimizing thing that I don’t need if I do everything else correctly

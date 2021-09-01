@@ -52,6 +52,7 @@ cat <<EOF >"$directory/$filename"
 EOF
 
 # TODO: Add file to `SUMMARY.md`
+echo "❗ Remember to adjust SUMMARY.md"
 
 #####################################################################
 # Practice
