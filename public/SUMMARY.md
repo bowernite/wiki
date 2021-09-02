@@ -37,6 +37,7 @@
     - [When to exercise](well-being/health/when-to-exercise.md)
     - [Standing](well-being/health/standing.md)
     - [Flexibility](well-being/health/flexibility.md)
+    - [Longevity](well-being/health/longevity.md)
   - [Learning](well-being/learning.md)
   - [Laundry](well-being/laundry.md)
   - [Hygiene](well-being/hygiene/hygiene.md)
