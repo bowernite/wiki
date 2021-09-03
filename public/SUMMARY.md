@@ -46,6 +46,7 @@
       - [Flossing](well-being/hygiene/oral-hygiene/flossing.md)
   - [Raynaud’s](well-being/raynauds.md)
   - [Skin Care](well-being/skin-care/skin-care.md)
+    - [Face Care](well-being/skin-care/face-care.md)
     - [Sun Protection](well-being/skin-care/sun-protection.md)
   - [Hair](well-being/hair.md)
 - [Ideas](ideas/ideas.md)
