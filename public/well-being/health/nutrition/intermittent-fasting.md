@@ -65,6 +65,8 @@
   - Less time spent worrying about food and cooking
   - Attempt to cool down internal body temp throughout the day
   - More time in the day for other activities besides cooking/eating
+- [What to do about super occasional late drinking/eating socially? : intermittentfasting](https://www.reddit.com/r/intermittentfasting/comments/nz75wz/what_to_do_about_super_occasional_late/)
+  - Lots of suggestions to be totally ok with occassional breaks, and some even saying to lean into them
 
 ## Links
 
