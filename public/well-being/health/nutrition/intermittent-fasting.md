@@ -38,6 +38,12 @@
 - Limbic hunger, which means that when you start to eat something, it kind of opens the door for lots more eating, and you eat until you’re full, no matter what. ([source](https://www.bertherring.com/episode-3-will-intermittent-fasting-make-me-hungry/#:~:text=limbic%20hunger%2C%20which%20means%20that%20when%20you%20start%20to%20eat%20something%2C%20it%20kind%20of%20opens%20the%20door%20for%20lots%20more%20eating%2C%20and%20you%20eat%20until%20you%E2%80%99re%20full%2C%20no%20matter%20what.))
 - Limbic hunger was very, very powerful survival tool, but in a world that has an abundance of food available, it becomes something that is not necessarily to our advantage. ([source](https://www.bertherring.com/episode-3-will-intermittent-fasting-make-me-hungry/#:~:text=limbic%20hunger%20was%20very%2C%20very%20powerful%20survival%20tool%2C%20but%20in%20a%20world%20that%20has%20an%20abundance%20of%20food%20available%2C%20it%20becomes%20something%20that%20is%20not%20necessarily%20to%20our%20advantage.))
 
+## What about occasionally breaking
+
+**tl;dr:** No dealbreaking problems with breaking. Many encourage it. One said it's supposedly good to mix it up.
+
+- [My thread on reddit about it](https://www.reddit.com/r/intermittentfasting/comments/ph7thj/on_the_verge_of_starting_but_still_not_sure_about/)
+
 ## Notes
 
 - The 16/8 method: Also called the Leangains protocol, it involves skipping breakfast and restricting your daily eating period to 8 hours, such as 1–9 p.m. Then you fast for 16 hours in between. ([source](https://www.healthline.com/nutrition/intermittent-fasting-guide#:~:text=The%2016%2F8%20method%3A%20Also%20called%20the%20Leangains%20protocol%2C%20it%20involves%20skipping%20breakfast%20and%20restricting%20your%20daily%20eating%20period%20to%208%20hours%2C%20such%20as%201%E2%80%939%20p.m.%20Then%20you%20fast%20for%2016%20hours%20in%20between.))
