@@ -51,6 +51,25 @@
   - When you wash them next, they’ll probably be a bit more snug (waist, calves) for a few wears
 - To help prevent fading, **stay out of sunlight** …😂
 
+## Athletic clothes / dry fit
+
+- Don't use fabric softener (kills the moisture wicking surface)
+
+## Default routine
+
+If no tag and not sure what to do:
+
+- Wash on cold
+- If socks, nicer material, delicate or in anyway, underwear, or especially dirty, jeans, **wash inside-out**
+- Try not to overload washing machine (if overloaded, clothes tend to get more wrinkly)
+- Drying
+  - **Air dry** if nicer material, socks, delicate in anyway
+  - Otherwise, put in drier on lowest heat setting
+  - Some nicer materials like superfine merino recommend laying flat to dry
+    - Never had a problem with them not being flat FWIW
+- Don't iron logos that are e.g. plastic
+- Iron on lower heat settings when in doubt. But follow material settings / guidelines
+
 ## Notes
 
 - Underwear and socks need to be washed every time
