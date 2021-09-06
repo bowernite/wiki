@@ -49,6 +49,7 @@
     - [Face Care](well-being/skin-care/face-care.md)
     - [Sun Protection](well-being/skin-care/sun-protection.md)
   - [Hair](well-being/hair.md)
+  - [Sore Feet](well-being/sore-feet.md)
 - [Ideas](ideas/ideas.md)
   - [Leveraging and Training our Brain's autopilot](ideas/training-brain-autopilot.md)
   - [Keys](ideas/keys.md)
