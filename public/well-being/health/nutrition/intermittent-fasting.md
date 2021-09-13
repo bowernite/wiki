@@ -44,6 +44,12 @@
 
 - [My thread on reddit about it](https://www.reddit.com/r/intermittentfasting/comments/ph7thj/on_the_verge_of_starting_but_still_not_sure_about/)
 
+## Effects on sleep
+
+- Along with a decrease in sleep arousals a 1-week fasting period promotes the quality of sleep and daytime performance in non-obese subjects. The observed decrease in PLM might point to a nutritional modification of brain dopaminergic functions. In terms of evolutionary development, an improved daytime performance during periods of food deprivation could have been beneficial for the success in search for food. ([source](https://pubmed.ncbi.nlm.nih.gov/12748412/#:~:text=along,food.))
+- In one study of healthy adults, participants found that their sleep quality improved on several levels after a week of intermittent fasting. ([source](https://www.sleepfoundation.org/physical-health/intermittent-fasting-sleep#:~:text=in%20one%20study%20of%20healthy%20adults%2C%20participants%20found%20that%20their%20sleep%20quality%20improved%20on%20several%20levels%20after%20a%20week%20of%20intermittent%20fasting.))
+- A human that is fasting will sleep less, as the brain is tricked into thinking that food has suddenly become scarce (source: Why We Sleep book)
+
 ## Notes
 
 - The 16/8 method: Also called the Leangains protocol, it involves skipping breakfast and restricting your daily eating period to 8 hours, such as 1–9 p.m. Then you fast for 16 hours in between. ([source](https://www.healthline.com/nutrition/intermittent-fasting-guide#:~:text=The%2016%2F8%20method%3A%20Also%20called%20the%20Leangains%20protocol%2C%20it%20involves%20skipping%20breakfast%20and%20restricting%20your%20daily%20eating%20period%20to%208%20hours%2C%20such%20as%201%E2%80%939%20p.m.%20Then%20you%20fast%20for%2016%20hours%20in%20between.))
