@@ -60,6 +60,19 @@ To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 
 - Atonia: When the muscle can't move
 - Marijuana smokers report higher frequency
 
+## Napping / Sleep Schedule
+
+- Some humans predisposed to going to bed and waking up earlier, some later
+  - Theory is that this was helpful for ancestor tribes -- people awake can keep watch
+- All humans have a biological dip in alertness around the afternoon
+  - Trigger for nap
+  - Typically triggered for time after meal (lunch)
+- Indigenous tribes today show pattern for this -- i.e. 7-7.5 hours sleep at night, 30mins around afternoon
+  - Some switch -- nap schedule in summer months, full sleep at night in winter months
+- Study in Greece, when siesta culture disappeared, showed 35% worse heart health and shorter lifespans once people stopped napping
+  - Nearby island that stayed with siestas live longer
+  - n.b.: Don't know how much of this was the lack of a nap, vs. they just were losing sleep and never adjusted their nighttime routine to make up for it
+
 ## Notes
 
 - A study in the Journal of Strength and Conditioning Research found that resistance training in particular that decrease times woken up after initially falling asleep. ([source](https://casper.com/blog/how-to-sleep-on-a-plane/#:~:text=A%20study%20in%20the%20Journal%20of%20Strength%20and%20Conditioning%20Research%20found%20that%20resistance%20training%20in%20particular%20that%20decrease%20times%20woken%20up%20after%20initially%20falling%20asleep.))
