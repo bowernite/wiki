@@ -15,6 +15,7 @@
 - Common theme in neuroscience discussions: **can't control the body with the body, vice-versa**
   - Leverage the other to control these
 - You should sip water slowly, two to three ounces at a time, throughout the day. If you drink too fast, you risk diluting your blood, which may cause faster excretion of water by the kidneys ([source](https://www.dollarshaveclub.com/content/story/youre-chugging-water-hydrate-youre-wrong#:~:text=You%20should%20sip%20water%20slowly%2C%20two%20to%20three%20ounces%20at%20a%20time%2C%20throughout%20the%20day.%20If%20you%20drink%20too%20fast%2C%20you%20risk%20diluting%20your%20blood%2C%20which%20may%20cause%20faster%20excretion%20of%20water%20by%20the%20kidneys))
+- This study has confirmed that the previous strongly-held belief that the application of dietary fiber to help constipation is but a myth. Our study shows a very strong correlation between improving constipation and its associated symptoms after stopping dietary fiber intake. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435786/#:~:text=this%20study%20has%20confirmed%20that%20the%20previous%20strongly-held%20belief%20that%20the%20application%20of%20dietary%20fiber%20to%20help%20constipation%20is%20but%20a%20myth.%20our%20study%20shows%20a%20very%20strong%20correlation%20between%20improving%20constipation%20and%20its%20associated%20symptoms%20after%20stopping%20dietary%20fiber%20intake.))
 
 ## Links
 
