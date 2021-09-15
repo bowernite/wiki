@@ -72,6 +72,12 @@ To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 
 - Study in Greece, when siesta culture disappeared, showed 35% worse heart health and shorter lifespans once people stopped napping
   - Nearby island that stayed with siestas live longer
   - n.b.: Don't know how much of this was the lack of a nap, vs. they just were losing sleep and never adjusted their nighttime routine to make up for it
+  
+## Sleep for the elderly
+
+Notes taken from Why We Sleep book.
+
+**tl;dr:** The elderly need just as much sleep, but are just worse at it. They need help. This has many health, memory implications.    
 
 ## Notes
 
