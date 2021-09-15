@@ -26,6 +26,8 @@
 - [Career](career/career.md)
   - [Inspirations](career/inspirations.md)
   - [Job Hunting](career/job-hunting.md)
+- [Clothing]
+  - [Midlayers and Jackets](clothing/midlayers-jackets.md)
 - [Well Being](well-being/well-being.md)
   - [Health](well-being/health/health.md)
     - [Hydration](well-being/health/hydration.md)
