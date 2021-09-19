@@ -26,6 +26,7 @@
 - [Career](career/career.md)
   - [Inspirations](career/inspirations.md)
   - [Job Hunting](career/job-hunting.md)
+- [Finances](finances/finances.md)
 - [Clothing](clothing/clothing.md)
   - [Material](clothing/material.md)
   - [Mid Layers and Jackets](clothing/mid-layers-jackets.md)
