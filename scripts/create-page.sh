@@ -37,6 +37,11 @@ if [[ $root == *\.md ]]; then
   mv "$original_md_file" "$directory/$original_md_filename"
 else
   directory="$root"
+  
+  # If we don't have a directory yet, that means we're intending to make a new one
+  if [[ ! -d "$directory" ]]; then
+    mkdir "$directory"
+  fi
 fi
 
 # Strip the trailing `/` from the directory, so we know we definitely need to add one
