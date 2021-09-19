@@ -1,4 +1,4 @@
-# Midlayers / Jackets
+# Mid Layers / Jackets
 
 ## Are "3-in-1" winter jackets preferable?
 
