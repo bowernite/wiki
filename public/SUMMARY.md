@@ -3,6 +3,7 @@
 - [Introduction](README.md)
 - Software
   - [npm](software/npm.md)
+  - [CLI](software/cli.md)
   - [Programming Languages](software/programming-languages.md)
   - [Terminal](software/terminal.md)
   - [Shell Scripting](software/shell-scripting.md)
