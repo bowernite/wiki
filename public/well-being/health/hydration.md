@@ -2,6 +2,8 @@
 
 ## Drinking Hot Water
 
+**tl;dr:** May help keeping warm. No convincing research really for other benefits. "Cool" water best for rehydration.
+
 - Most health benefits of hot water are based on anecdotal reports, as there’s little scientific research in this area. That said, many people feel benefits from this remedy, especially first thing in the morning or right before bed. ([source](https://www.healthline.com/health/benefits-of-drinking-hot-water#:~:text=most%20health%20benefits%20of%20hot%20water%20are%20based%20on%20anecdotal%20reports%2C%20as%20there%E2%80%99s%20little%20scientific%20research%20in%20this%20area.%20that%20said%2C%20many%20people%20feel%20benefits%20from%20this%20remedy%2C%20especially%20first%20thing%20in%20the%20morning%20or%20right%20before%20bed.))
 - When drinking hot beverages, research recommends an optimal temperature of between 130 and 160°F (54 and 71°C). ([source](https://www.healthline.com/health/benefits-of-drinking-hot-water#:~:text=when%20drinking%20hot%20beverages%2C%20researchtrusted%20source%20recommends%20an%20optimal%20temperature%20of%20between%20130%20and%20160%C2%B0f%20(54%20and%2071%C2%B0c).))
 - May relieve nasal congestion ([source](https://www.healthline.com/health/benefits-of-drinking-hot-water#:~:text=may%20relieve%20nasal%20congestion))
