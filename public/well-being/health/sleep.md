@@ -86,6 +86,7 @@ Notes taken from Why We Sleep book.
 - If you’re fortunate enough to be able to control the temperature where you live, set your bedroom to drop to 65 degrees at the time you intend to go to sleep. ([source](https://www.gatesnotes.com/Books/Why-We-Sleep#:~:text=If%20you%E2%80%99re%20fortunate%20enough%20to%20be%20able%20to%20control%20the%20temperature%20where%20you%20live%2C%20set%20your%20bedroom%20to%20drop%20to%2065%20degrees%20at%20the%20time%20you%20intend%20to%20go%20to%20sleep.))
 - A human that is fasting will sleep less, as the brain is tricked into thinking that food has suddenly become scarce (source: Why We Sleep book)
 - Intermittent fasting my help with sleep quality, needing less sleep. See Intermittent Fasting notes for details
+- Study showed that people can't tell or accurately assess how much sleep is impairing them, while they are behind on sleep / impaired (source: Why We Sleep book)
 
 ## Links
 
