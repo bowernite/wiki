@@ -86,6 +86,7 @@
   - More time in the day for other activities besides cooking/eating
 - [What to do about super occasional late drinking/eating socially? : intermittentfasting](https://www.reddit.com/r/intermittentfasting/comments/nz75wz/what_to_do_about_super_occasional_late/)
   - Lots of suggestions to be totally ok with occassional breaks, and some even saying to lean into them
+- Focus on healthy, high-fiber, vegetable-rich foods during the feeding periods and moderate other less-healthy options. ([source](https://www.onemedical.com/blog/eat-well/intermittent-fasting#:~:text=%20focus%20on%20healthy%2C%20high-fiber%2C%20vegetable-rich%20foods%20during%20the%20feeding%20periods%20and%20moderate%20other%20less-healthy%20options.))
 
 ## Links
 
