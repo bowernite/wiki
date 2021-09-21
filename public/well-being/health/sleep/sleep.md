@@ -32,8 +32,7 @@ Much of our biological system and clock is anchored by the neurons in our eyes r
 - Studies have shown that getting blue light between 11pm-4am suppresses dopamine output, which can effect mood
   - Fine if it just happens one time/rarely, but not good as a habit
 - Turning on (overhead) lights 45-60 minutes before you wake up can be beneficial for setting your clock
-- Short naps around the afternoon can be beneficial
-  - If you're waking up groggy from naps, you're not getting enough sleep at night
+- If you're waking up groggy from naps, you're not getting enough sleep at night
 - Can also use "non-sleep deep rest"
   - Forms of relaxation for the mind that don't necessarily put the mind to sleep
     - Yoga Nidra
@@ -60,24 +59,16 @@ To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 
 - Atonia: When the muscle can't move
 - Marijuana smokers report higher frequency
 
-## Napping / Sleep Schedule
+## Sleep Schedule
 
 - Some humans predisposed to going to bed and waking up earlier, some later
   - Theory is that this was helpful for ancestor tribes -- people awake can keep watch
-- All humans have a biological dip in alertness around the afternoon
-  - Trigger for nap
-  - Typically triggered for time after meal (lunch)
-- Indigenous tribes today show pattern for this -- i.e. 7-7.5 hours sleep at night, 30mins around afternoon
-  - Some switch -- nap schedule in summer months, full sleep at night in winter months
-- Study in Greece, when siesta culture disappeared, showed 35% worse heart health and shorter lifespans once people stopped napping
-  - Nearby island that stayed with siestas live longer
-  - n.b.: Don't know how much of this was the lack of a nap, vs. they just were losing sleep and never adjusted their nighttime routine to make up for it
-  
+
 ## Sleep for the elderly
 
 Notes taken from Why We Sleep book.
 
-**tl;dr:** The elderly need just as much sleep, but are just worse at it. They need help. This has many health, memory implications.    
+**tl;dr:** The elderly need just as much sleep, but are just worse at it. They need help. This has many health, memory implications.
 
 ## Notes
 
@@ -87,6 +78,7 @@ Notes taken from Why We Sleep book.
 - A human that is fasting will sleep less, as the brain is tricked into thinking that food has suddenly become scarce (source: Why We Sleep book)
 - Intermittent fasting my help with sleep quality, needing less sleep. See Intermittent Fasting notes for details
 - Study showed that people can't tell or accurately assess how much sleep is impairing them, while they are behind on sleep / impaired (source: Why We Sleep book)
+- Best to keep sleeping area separate from other areas, like watching TV or working ([source](https://www.fastcompany.com/90567684/the-case-for-taking-a-mid-day-nap-according-to-experts#:~:text=%E2%80%9Cif%20you%20start%20to%20work%2C%20sleep%2C%20and%20watch%20netflix%20in%20bed%2C%20your%20brain%20gets%20confused%2C%E2%80%9D%20says%20robbins.%20%E2%80%9Cand%20that%E2%80%99s%20where%20we%20can%20develop%20insomnia.%E2%80%9D))
 
 ## Links
 

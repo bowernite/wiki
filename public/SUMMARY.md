@@ -38,6 +38,7 @@
   - [Health](well-being/health/health.md)
     - [Hydration](well-being/health/hydration.md)
     - [Sleep](well-being/health/sleep.md)
+      - [Napping](well-being/health/sleep/napping.md)
     - [Flying](well-being/health/flying.md)
     - [Nutrition](well-being/health/nutrition.md)
       - [Intermittent Fasting](well-being/health/nutrition/intermittent-fasting.md)
