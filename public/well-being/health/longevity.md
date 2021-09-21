@@ -13,3 +13,4 @@ Some research points to a maxing out point 12-150, but science is crazy and coul
 
 - [Aging - Everything I know](https://wiki.nikitavoloboev.xyz/health/aging)
 - [Planning for life expectancy increase? : fatFIRE](https://www.reddit.com/r/fatFIRE/comments/o3ztqf/planning_for_life_expectancy_increase/)
+- [How to age better? : fatFIRE](https://www.reddit.com/r/fatFIRE/comments/m0fht9/how_to_age_better/)
