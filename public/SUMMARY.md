@@ -44,7 +44,7 @@
       - [Intermittent Fasting](well-being/health/nutrition/intermittent-fasting.md)
       - [Alcohol](well-being/health/nutrition/alcohol.md)
     - [Exercise](well-being/health/exercise.md)
-    - [When to exercise](well-being/health/when-to-exercise.md)
+      - [When to exercise](well-being/health/when-to-exercise.md)
     - [Standing](well-being/health/standing.md)
     - [Flexibility](well-being/health/flexibility.md)
     - [Longevity](well-being/health/longevity.md)
