@@ -70,6 +70,7 @@
   - [Cooking](craft/cooking.md)
   - [Golf](craft/golf/golf.md)
     - [Personal](craft/golf/personal.md)
+- [Travel](travel/travel.md)
 - [Cryptocurrency](crypto.md)
 - [English](english.md)
 - [Miscellaneous](misc.md)
