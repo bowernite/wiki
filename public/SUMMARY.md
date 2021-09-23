@@ -71,6 +71,7 @@
     - [Personal](craft/golf/personal.md)
 - [Travel](travel/travel.md)
   - [Flying](well-being/health/flying.md)
+  - [Does wearing a hat keep you cooler in the heat?](does-hat-keep-you-cooler-in-heat.md)
 - [Cryptocurrency](crypto.md)
 - [English](english.md)
 - [Miscellaneous](misc.md)
@@ -79,4 +80,3 @@
 - [German](german.md)
 - [German Culture](german-culture.md)
 - [Mechanical Keyboards](mechanical-keyboards.md)
-- [Does wearing a hat keep you cooler in the heat?](does-hat-keep-you-cooler-in-heat.md)
