@@ -10,6 +10,11 @@ Some research points to a maxing out point 12-150, but science is crazy and coul
 ## Notes
 
 - Having Neanderthal genes in you helps protect you from heart disease (source: David Sinclair on Joe Rogan podcast)
+- He states that eating one meal a day can extend your lifespan, which he has been doing. Plus, he tries his best to avoid snacking, too. ([source](https://www.mealprep.com.au/p/david-sinclair-joe-rogan-podcast/#:~:text=eating.-,He%20states%20that%20eating,To,-explain))
+- Overconsumption can make your body complacent. At the molecular level, longevity genes respond to what you’re eating and how much you’re eating. These genes give our bodies resilience and slow down the biological clock. By letting your body experience some form of hunger, you can turn these genes on. ([source](https://www.mealprep.com.au/p/david-sinclair-joe-rogan-podcast/#:~:text=overconsumption,on.))
+- Your genes only control 20% of your ultimate age in old age. 80% is in your hands. ([source](https://www.mealprep.com.au/p/david-sinclair-joe-rogan-podcast/#:~:text=your%20genes%20only%20control%2020%25%20of%20your%20ultimate%20age%20in%20old%20age.%2080%25%20is%20in%20your%20hands.))
+- The 5 best things you can do for yourself are exercising, eating healthily, getting adequate sleep, avoiding tobacco, and managing stress. ([source](https://www.mealprep.com.au/p/david-sinclair-joe-rogan-podcast/#:~:text=the%205%20best%20things%20you%20can%20do%20for%20yourself%20are%20exercising%2C%20eating%20healthily%2C%20getting%20adequate%20sleep%2C%20avoiding%20tobacco%2C%20and%20managing%20stress.))
+- Feeling constantly anxious, worried, and tense leads to or bad and chronic stress, speeding up the biological aging process. ([source](https://www.mealprep.com.au/p/david-sinclair-joe-rogan-podcast/#:~:text=feeling%20constantly%20anxious%2C%20worried%2C%20and%20tense%20leads%20to%20or%20bad%20and%20chronic%20stress%2C%20speeding%20up%20the%20biological%20aging%20process.))
 
 ## Links
 
