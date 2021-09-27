@@ -53,6 +53,7 @@ To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 
 - Using this method can shift your clock 1-3 hrs per night/day you use it
 - In order to do this, you need to **track your temp minimum** (time) in wherever you're coming from
 - When you land, **eat in the local meal schedule**
+- Exercising after landing can help: raises NAD levels (source: anecdotally from Joe Rogan)
 
 ## Sleep Paralysis
 
