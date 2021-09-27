@@ -9,6 +9,8 @@ Some research points to a maxing out point 12-150, but science is crazy and coul
 
 ## Notes
 
+- Having Neanderthal genes in you helps protect you from heart disease (source: David Sinclair on Joe Rogan podcast)
+
 ## Links
 
 - [Aging - Everything I know](https://wiki.nikitavoloboev.xyz/health/aging)
