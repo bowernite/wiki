@@ -14,6 +14,11 @@
   - (based on neuroplasticity)
 - After a few days of exercising at the same times, body will secrete hormones around those times to encourage exercise
 
+## Resistance training / weigh lifting vs endurance
+
+- Ideally, for a few weeks do 3/2 ratio of weight lifting to endurance
+  - Then, for a few weeks do a 2/3 ratio of the same thing
+  - Source: Huberman
 
 ## Notes
 
