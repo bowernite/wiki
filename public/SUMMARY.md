@@ -2,6 +2,7 @@
 
 - [Introduction](README.md)
 - Software
+  - [Tooling](software/software-tooling.md)
   - [npm](software/npm.md)
   - [CLI](software/cli.md)
   - [Programming Languages](software/programming-languages.md)
