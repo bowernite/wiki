@@ -14,6 +14,7 @@
 
 - The best nap length in most situations is one that is long enough to be refreshing but not so long that sleep inertia occurs. Naps lasting 10 to 20 minutes are considered the ideal length. ([source](https://www.sleepfoundation.org/sleep-hygiene/napping#:~:text=the%20best%20nap%20length%20in%20most%20situations%20is%20one%20that%20is%20long%20enough%20to%20be%20refreshing%20but%20not%20so%20long%20that%20sleep%20inertia%20occurs.%20naps%20lasting%2010%20to%2020%20minutes%20are%20considered%20the%20ideal%20length.))
   - They are sometimes referred to as “power naps” because they provide recovery benefits without leaving the napper feeling sleepy afterward. ([source](https://www.sleepfoundation.org/sleep-hygiene/napping#:~:text=they%20are%20sometimes%20referred%20to%20as%20%E2%80%9Cpower%20naps%E2%80%9D%20because%20they%20provide%20recovery%20benefits%20without%20leaving%20the%20napper%20feeling%20sleepy%20afterward.))
+- 20-90 minutes. No more than 90 minutes (source: Huberman)
 - It helps to nap in a comfortable space that is dark, cool, and quiet. ([source](https://www.sleepfoundation.org/sleep-hygiene/napping#:~:text=it%20helps%20to%20nap%20in%20a%20comfortable%20space%20that%20is%20dark%2C%20cool%2C%20and%20quiet.))
 - Short naps around the afternoon can be beneficial
   - If you're waking up groggy from naps, you're not getting enough sleep at night

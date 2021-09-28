@@ -64,6 +64,10 @@ To adjust for jet lag, you need to tell you body to adjust its clock in the 2-3 
 
 - Some humans predisposed to going to bed and waking up earlier, some later
   - Theory is that this was helpful for ancestor tribes -- people awake can keep watch
+- On weekends when schedule shifts, two important things to maintain (source: Huberman)
+  - Getting morning light outside
+  - Try to maintain sleep schedule
+  - Don't go to bed early because you stayed out the night before
 
 ## Sleep for the elderly
 

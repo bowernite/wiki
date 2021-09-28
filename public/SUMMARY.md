@@ -36,6 +36,7 @@
   - [Socks](clothing/socks.md)
 - [Well Being](well-being/well-being.md)
   - [Health](well-being/health/health.md)
+    - [Anxiety](well-being/health/anxiety.md)
     - [Hydration](well-being/health/hydration.md)
     - [Sleep](well-being/health/sleep.md)
       - [Napping](well-being/health/sleep/napping.md)
