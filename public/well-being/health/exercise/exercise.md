@@ -13,6 +13,7 @@
 - After a few days exercising at same time in morning, body will start to "itch" to wake up at the time and exercise
   - (based on neuroplasticity)
 - After a few days of exercising at the same times, body will secrete hormones around those times to encourage exercise
+- We workout and focus even _better_ when fasted (source: Huberman)
 
 ## Resistance training / weigh lifting vs endurance
 

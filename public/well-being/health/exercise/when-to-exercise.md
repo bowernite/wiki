@@ -4,7 +4,7 @@ To answer the question "are there optimal times (in the day, or relative to othe
 
 ## Walking post- or pre-meal
 
-Seems like going before is marginally better, but both have benefits in different scenarios, so probably not different enough to move around schedule for. Just figure out what works best for you (unless you want to lose weight, in which case before _might_ be better).
+Both have benefits in different scenarios. Just figure out what works best for you (unless you want to lose weight, in which case before _might_ be better).
 
 - One more thing to completely avoid post dinner is working out. It not only affects our digestion but also postpone our sleep time. ([source](https://www.pnbmetlife.com/articles/health/myth-buster-should-we-brisk-walk.html#:~:text=One%20more%20thing%20to%20completely%20avoid%20post%20dinner%20is%20working%20out.%20It%20not%20only%20affects%20our%20digestion%20but%20also%20postpone%20our%20sleep%20time.))
 
@@ -22,6 +22,7 @@ Seems like going before is marginally better, but both have benefits in differen
 - Engaging in light or moderate walking is an excellent way to rev up your metabolism and burn off those calories, as well as contribute to muscle and heart health ([source](https://www.livestrong.com/article/529627-walking-before-or-after-meals/#:~:text=engaging%20in%20light%20or%20moderate%20walking%20is%20an%20excellent%20way%20to%20rev%20up%20your%20metabolism%20and%20burn%20off%20those%20calories%2C%20as%20well%20as%20contribute%20to%20muscle%20and%20heart%20health))
 - Brisk walking is not suggested after consuming a heavy meal because the body is trying to digest a large mass of food while vigorously walking at the same time ([source](https://www.livestrong.com/article/529627-walking-before-or-after-meals/#:~:text=brisk%20walking%20is%20not%20suggested%20after%20consuming%20a%20heavy%20meal%20because%20the%20body%20is%20trying%20to%20digest%20a%20large%20mass%20of%20food%20while%20vigorously%20walking%20at%20the%20same%20time))
   - Wait about 45 mins to walk after big meals
+- Brief walks for 5-30 minutes after ingesting a meal can accelerate metabolism and can accelerate and improve nutrient utilization ([source: Huberman](https://podclips.com/ct/GtnHGA))
 
 ## Notes
 
