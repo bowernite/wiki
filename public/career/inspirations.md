@@ -15,6 +15,18 @@ Keeping track of these because... I don't know, it seems useful. Maybe if I'm lo
 - [Shawn Wang](https://swyx.io)
 - Josh Comeau - Super positive, awesome at HTML and CSS
   - [https://www.joshwcomeau.com/](https://www.joshwcomeau.com/)
+  
+## Scientists
+
+Scientists I respect and will turn to on specific topics, to see if they have any thoughts or studies they respect on the topic.
+
+- Andrew Huberman
+  - Stays up to date on newest journals
+  - But makes sure they're well respected and peer reviewed
+- David Sinclair
+  - Leader in longevity, anti-aging, reverse aging
+- Matthew Walker
+  - Wrote Why We Sleep book
 
 ## Notes
 
