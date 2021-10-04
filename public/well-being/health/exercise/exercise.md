@@ -14,6 +14,7 @@
   - (based on neuroplasticity)
 - After a few days of exercising at the same times, body will secrete hormones around those times to encourage exercise
 - We workout and focus even _better_ when fasted (source: Huberman)
+- 2021 study showing that protein early in day is better for muscle growth and retention
 
 ## Resistance training / weigh lifting vs endurance
 
