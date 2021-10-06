@@ -41,6 +41,7 @@
     - [Hydration](well-being/health/hydration.md)
     - [Sleep](well-being/health/sleep.md)
       - [Napping](well-being/health/sleep/napping.md)
+      - [Wakefulness](well-being/health/sleep/wakefulness.md)
     - [Nutrition](well-being/health/nutrition.md)
       - [Intermittent Fasting](well-being/health/nutrition/intermittent-fasting.md)
       - [Alcohol](well-being/health/nutrition/alcohol.md)
