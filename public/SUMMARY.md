@@ -42,7 +42,7 @@
     - [Sleep](well-being/health/sleep.md)
       - [Napping](well-being/health/sleep/napping.md)
       - [Wakefulness](well-being/health/sleep/wakefulness.md)
-    - [Nutrition](well-being/health/nutrition.md)
+    - [Nutrition](well-being/health/nutrition/nutrition.md)
       - [Intermittent Fasting](well-being/health/nutrition/intermittent-fasting.md)
       - [Alcohol](well-being/health/nutrition/alcohol.md)
     - [Exercise](well-being/health/exercise/exercise.md)
