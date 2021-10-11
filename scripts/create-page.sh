@@ -47,8 +47,10 @@ fi
 # Strip the trailing `/` from the directory, so we know we definitely need to add one
 directory="${directory%/}"
 
+file_path="$directory/$filename"
+
 # This is a "HereDoc". https://linuxize.com/post/bash-heredoc/
-cat <<EOF >"$directory/$filename"
+cat <<EOF >"$file_path"
 # $page_title
 
 ## Notes
@@ -57,6 +59,18 @@ cat <<EOF >"$directory/$filename"
 EOF
 
 # TODO: Add file to `SUMMARY.md`
+# For now, just copy the markdown link to the clipboard as a quick solution
+## Strip `public/` from the start of the path, since SUMMARY.md doesn't have that part of our filesystem
+public_file_path="${file_path#public/}"
+
+# Based on the depth of the file, construct the indentation to prepend to the copied link / list item
+## For now not doing this -- couldn't figure out how to make the copied value be treated 'linewise' when pasting in Vim. So we'll just open a new line and paste the unindented list item
+# leader="${public_file_path//[^\/]}"
+# leader="${leader//\//  }"
+# leader="$leader\r"
+# echo "${leader}- [$page_title]($public_file_path)" | pbcopy
+
+echo "- [$page_title]($public_file_path)" | pbcopy
 echo "✅ Remember to adjust SUMMARY.md"
 
 #####################################################################
