@@ -19,3 +19,4 @@
 - [Exploring the Complexities of Width and Height in CSS | CSS-Tricks](https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/)
 - [How cyclic relative sizing works](https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/)
 - [Variable fonts guide - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide)
+- [100 bytes of CSS to look great everywhere](https://twitter.com/swyx/status/1449472712720601088?utm_campaign=swyx%27s%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)
