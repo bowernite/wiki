@@ -38,3 +38,4 @@ Still probably could do more research here. Might be better to drink even before
 - May improve central nervous system function ([source](https://www.healthline.com/health/benefits-of-drinking-hot-water#:~:text=may%20improve%20central%20nervous%20system%20function))
 
 ## Links
+- [Water fluoridation - Wikipedia](https://en.wikipedia.org/wiki/Water_fluoridation)
