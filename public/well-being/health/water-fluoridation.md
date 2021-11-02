@@ -12,6 +12,7 @@
 - Just the right amount can significantly improve dental health in the population. ([source](https://www.reddit.com/r/askscience/comments/ojlma/can_someone_clarify_water_fluoridation_for_me/#:~:text=just%20the%20right%20amount%20can%20significantly%20improve%20dental%20health%20in%20the%20population.))
 - It's been pretty thoroughly vetted by the scientific and health communities. ([source](https://www.reddit.com/r/askscience/comments/ojlma/can_someone_clarify_water_fluoridation_for_me/#:~:text=it's%20been%20pretty%20thoroughly%20vetted%20by%20the%20scientific%20and%20health%20communities.))
 - Toxicant exposures in early life can have much more serious consequences than exposures occurring later in life, and the developing brain is known to be particularly vulnerable
+- Topical fluoride is nowhere near as effective at preventing cavities as systemic fluoride that is provided to children while their teeth are forming.
 
 ## Links
 

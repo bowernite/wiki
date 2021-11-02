@@ -8,6 +8,7 @@
   - So, it doesn't reduce fiber, but you may end up consuming more calories in a smoothie than you would for whole fruit
 - Our bodies absorb blended-fruit sugars differently than sugars from whole fruit ([source](https://www.motherjones.com/food/2016/03/are-smoothies-devil/#:~:text=our%20bodies%20absorb%20blended-fruit%20sugars%20differently%20than%20sugars%20from%20whole%20fruit)) 
   - Basically, argument that sugar from smoothies is digested quicker, which can overwhelm liver
+- Chewing is good for us. Ancestors chewed 4 hours per day
 
 ## Notes
 
