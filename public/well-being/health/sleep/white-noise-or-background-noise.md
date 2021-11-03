@@ -10,8 +10,9 @@ Using white noise (but actually, just any background noise, like ocean sounds, r
 - A 2017 study in Frontiers in Human Neuroscience also found a positive link between pink noise and deep sleep. Deep sleep supports memory and helps you feel refreshed in the morning. ([source](https://www.healthline.com/health/pink-noise-sleep#:~:text=a%202017%20study%20in%20frontiers%20in%20human%20neuroscience%20also%20found%20a%20positive%20link%20between%20pink%20noise%20and%20deep%20sleep.%20deep%20sleep%20supports%20memory%20and%20helps%20you%20feel%20refreshed%20in%20the%20morning.))
 - There isn’t a lot of scientific research on pink noise, though. There’s more evidence on the benefits of white noise for sleep. ([source](https://www.healthline.com/health/pink-noise-sleep#:~:text=there%20isn%E2%80%99t%20a%20lot%20of%20scientific%20research%20on%20pink%20noise%2C%20though.%20there%E2%80%99s%20more%20evidence%20on%20the%20benefits%20of%20white%20noise%20for%20sleep.))
 - [Matthew Walker Busts Sleep Myths | Why We Sleep - YouTube](https://www.youtube.com/watch?v=oDRrRuPqALs)
+  - Matthew Walker seems largely unconcerned about it, but admits studies aren't too useful right now
+  - He actually mentions some frequencies can help with sleep -- using them as a "metronome" for the slow brain waves of sleep
 - That means over time your brain will associate the process of going to sleep with having the white noise machine on. ([source](https://www.bustle.com/p/how-white-noise-can-actually-hurt-your-sleep-according-to-experts-19251547#:~:text=that%20means%20over%20time%20your%20brain%20will%20associate%20the%20process%20of%20going%20to%20sleep%20with%20having%20the%20white%20noise%20machine%20on.))
-- Matthew Walker seems largely unconcerned about it, but admits studies aren't too useful right now
 - Could get used to it, but I'm not really too concerned about that. It's kind of nonnegotiable if you're in a loud environment and can't really do earplugs
 
 ## Links
