@@ -36,5 +36,6 @@ Still probably could do more research here. Might be better to drink even before
 - May aid digestion ([source](https://www.healthline.com/health/benefits-of-drinking-hot-water#:~:text=may%20aid%20digestion))
 - Research from 2019 has shown that drinking water can improve central nervous system activity, as well as mood. This research showed that drinking water boosted participants’ brain activity during demanding activities and also reduced their self-reported anxiety. ([source](https://www.healthline.com/health/benefits-of-drinking-hot-water#:~:text=Research%20from,reported%20anxiety.))
 - May improve central nervous system function ([source](https://www.healthline.com/health/benefits-of-drinking-hot-water#:~:text=may%20improve%20central%20nervous%20system%20function))
+- For every **30 pounds** of body weight, drink **1 ounce** of water every **20 minutes** of physical or mental work (source: some podcast, probably Huberman or Rogan or Sinclair)
 
 ## Links
