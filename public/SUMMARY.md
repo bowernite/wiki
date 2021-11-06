@@ -37,6 +37,7 @@
   - [Socks](clothing/socks.md)
 - [Well Being](well-being/well-being.md)
   - [Health](well-being/health/health.md)
+    - [Water Fluoridation](well-being/health/water-fluoridation.md)
     - [Vitamin D](well-being/health/vitamin-d.md)
     - [Breathing](well-being/health/breathing.md)
     - [Vision](well-being/health/vision.md)
