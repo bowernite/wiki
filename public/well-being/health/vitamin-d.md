@@ -28,6 +28,9 @@
 - The supplements tested in the aforementioned research had between 9 and 146 percent of the expected dose. ([source](https://www.everydayhealth.com/vitamin-d/you-need-vitamin-d-supplement-everything-know/#:~:text=the%20supplements%20tested%20in%20the%20aforementioned%20research%20had%20between%209%20and%20146%20percent%20of%20the%20expected%20dose.))
 - The researchers found supplements from a USP-verified bottle were the most accurate and least variable, so when you’re looking for a supplement, be on the lookout for the USP mark. ([source](https://www.everydayhealth.com/vitamin-d/you-need-vitamin-d-supplement-everything-know/#:~:text=the%20researchers%20found%20supplements%20from%20a%20usp-verified%20bottle%20were%20the%20most%20accurate%20and%20least%20variable%2C%20so%20when%20you%E2%80%99re%20looking%20for%20a%20supplement%2C%20be%20on%20the%20lookout%20for%20the%20usp%20mark.))
 - A lot of controversy still on how much to supplement
+- Our bodies can only produce natural vitamin D when the sun is above a 45 degree angle. ([source](https://www.reddit.com/r/germany/comments/kojv0l/germany_light_and_depression/#:~:text=our%20bodies%20can%20only%20produce%20natural%20vitamin%20d%20when%20the%20sun%20is%20above%20a%2045%20degree%20angle.))
+- Vitamin K2 is only found in certain animal-derived foods and fermented foods like natto, kimchi, and sauerkraut. ([source](https://www.wellnessverge.com/athletic-greens-review#:~:text=vitamin%20k2%20is%20only%20found%20in%20certain%20animal-derived%20foods%20and%20fermented%20foods%20like%20natto%2C%20kimchi%2C%20and%20sauerkraut.))
+- Vitamins D3 and K2 that you can take in addition to this daily product. Why? These two nutrients work together to help support your skeletal strength and bone health, muscle function, and normal immune response. ([source](https://www.wellnessverge.com/athletic-greens-review#:~:text=vitamins%20D3,immune%20response.))
 
 ## Links
 
