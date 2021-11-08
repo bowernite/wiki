@@ -6,7 +6,7 @@
 
 ### Windows
 
-**tl;dr:** UV-B doesn't it through windows, but UV-A does, pretty much all of it.
+**tl;dr:** UV-B doesn't go through windows, but UV-A does, pretty much all of it.
 
 - Standard window glass, according to the International Ultraviolet Association, will allow UV-A to pass through while almost 100% of the UV-B and UV-C light is blocked. Therefore, some UV light will enter your home and potentially affect your skin. Some of these effects could include increased freckles and increased sensitivity to sunlight that could result in rashes such as photodermatitis. ([source](https://hps.org/publicinformation/ate/q12082.html#:~:text=Standard,photodermatitis.))
 - The Skin Cancer Foundation states that windshield glass is specifically treated to remove the UV-A; however, the side windows and rear window will allow the UV-A to penetrate the interior. Therefore, care should be taken in vehicles, as well. Window tints can be applied to automobiles, but be aware that states have regulations on tinting. ([source](https://hps.org/publicinformation/ate/q12082.html#:~:text=The%20Skin,on%20tinting.))
