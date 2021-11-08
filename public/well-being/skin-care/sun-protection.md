@@ -39,6 +39,22 @@
   - Lots of graphics, showing the effects of time of year on UVA and UVB radiation throughout the year
   - One graphic shows how at 60°N latitude, UVA and UVB rays are much lower
     - UVB rays basically gone, but UVA still there but much lower
+    
+### Shade / Diffuse
+
+**tl;dr:** Depending on the environment, somewhere between 5%-50% UV in diffused environments make their way to the final target. UVA diffused more, so weaker by the end, than UVB. Roughly 15% in urban environment, 5-10% in tree shade in "outdoor" environment
+
+- The sensors located in tree shade indicated that over 5% of UV radiation was detected in the shade. The sensors located in sun-umbrella shade showed that greater than 17% of UV radiation reached the shade. The sun sensors used in our study collected UV radiation data relevant to UV index; however, they did not differentiate between UVA, UVB, visible, and infrared light. The amount of UV radiation detected in the shade is not zero, thus regular sunscreen use and other sun protective practices should be followed to reduce the risk of sun damage and skin cancer. ([source](https://pubmed.ncbi.nlm.nih.gov/31450273/#:~:text=zero.-,The%20sensors%20located%20in,damage%20and%20skin%20cancer.,-Similar))
+- Umbrellas are a great option for UV protection, but there are some limitations. UV rays are small and some UV may penetrate between fabric fibers. ([source](https://www.jivome.com/articles/uva-and-blue-light-in-the-shade/#:~:text=umbrellas%20are%20a%20great%20option%20for%20uv%20protection%2C%20but%20there%20are%20some%20limitations.%20uv%20rays%20are%20small%20and%20some%20uv%20may%20penetrate%20between%20fabric%20fibers.))
+- No matter how high the fabric’s SPF or UPF is, the amount of UV present under the umbrella can be up to 84 percent of that in the sun depending on the levels of indirect UV that can come in from around the shade. ([source](https://www.jivome.com/articles/uva-and-blue-light-in-the-shade/#:~:text=no%20matter%20how%20high%20the%20fabric%E2%80%99s%20spf%20or%20upf%20is%2C%20the%20amount%20of%20uv%20present%20under%20the%20umbrella%20can%20be%20up%20to%2084%20percent%20of%20that%20in%20the%20sun%20depending%20on%20the%20levels%20of%20indirect%20uv%20that%20can%20come%20in%20from%20around%20the%20shade.))
+- For a typical umbrella, the true SPF value is approximately between 10 -15 when used in midday sunlight, when the sun is the most intense.[4] Therefore, umbrellas are effective at blocking midday sunlight. However, they are not as effective in blocking UV earlier in the morning or late in the day when the UV rays are more diffuse in the atmosphere. ([source](https://www.jivome.com/articles/uva-and-blue-light-in-the-shade/#:~:text=For%20a,the%20atmosphere.))
+- The percentage diffuse UV was higher for the shorter 320-400 nm range (UVB) than for 280-320 nm (UVA). The percentage diffuse UVB ranged from 23 to 59%, whereas the percentage diffuse UVA ranged from 17 to 31%. (study in Australia under trees) ([source](https://pubmed.ncbi.nlm.nih.gov/11272726/#:~:text=the%20percentage%20diffuse%20uv%20was%20higher%20for%20the%20shorter%20320-400%20nm%20range%20(uvb)%20than%20for%20280-320%20nm%20(uva).%20the%20percentage%20diffuse%20uvb%20ranged%20from%2023%20to%2059%25%2C%20whereas%20the%20percentage%20diffuse%20uva%20ranged%20from%2017%20to%2031%25.))
+- The percentage diffuse UV was lower at noon than in the morning and afternoon with the difference more pronounced for the UVB. The average percentage diffuse UVB over all the measurements in the tree shade for the morning, noon and afternoon was 62, 58 and 71%, respectively, and the average percentage diffuse UVA was 52, 51 and 59%, respectively. ([source](https://pubmed.ncbi.nlm.nih.gov/11272726/#:~:text=31%25.-,The%20percentage%20diffuse%20UV%20was,and%2059%25%2C%20respectively.,-Similar%20articles))
+- Up to 50% of UV can be diffused
+- Environment matters (e.g. nearby pool, trees, buildings)
+  - Water scatters UV rays different than concrete, sand, etc.
+- Urban studies see around 10-25% UV rays making it to street level (depending on the city -- some studies are based on 20 ft. story high buildings and a certain ratio of width of street to height of buildings)
+- https://escholarship.org/content/qt4wc0f6tw/qt4wc0f6tw.pdf?t=pvm1tk
 
 ## Notes
 
