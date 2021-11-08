@@ -53,7 +53,7 @@
 - Up to 50% of UV can be diffused
 - Environment matters (e.g. nearby pool, trees, buildings)
   - Water scatters UV rays different than concrete, sand, etc.
-- Urban studies see around 10-25% UV rays making it to street level (depending on the city -- some studies are based on 20 ft. story high buildings and a certain ratio of width of street to height of buildings)
+- Urban studies see around 10-18% UV rays making it to street level (depending on the city -- some studies are based on 20 ft. story high buildings and a certain ratio of width of street to height of buildings) ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532478/))
 - https://escholarship.org/content/qt4wc0f6tw/qt4wc0f6tw.pdf?t=pvm1tk
 
 ## Notes
