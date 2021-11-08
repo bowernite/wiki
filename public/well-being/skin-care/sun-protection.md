@@ -6,6 +6,8 @@
 
 ### Windows
 
+**tl;dr:** UV-B doesn't it through windows, but UV-A does, pretty much all of it.
+
 - Standard window glass, according to the International Ultraviolet Association, will allow UV-A to pass through while almost 100% of the UV-B and UV-C light is blocked. Therefore, some UV light will enter your home and potentially affect your skin. Some of these effects could include increased freckles and increased sensitivity to sunlight that could result in rashes such as photodermatitis. ([source](https://hps.org/publicinformation/ate/q12082.html#:~:text=Standard,photodermatitis.))
 - The Skin Cancer Foundation states that windshield glass is specifically treated to remove the UV-A; however, the side windows and rear window will allow the UV-A to penetrate the interior. Therefore, care should be taken in vehicles, as well. Window tints can be applied to automobiles, but be aware that states have regulations on tinting. ([source](https://hps.org/publicinformation/ate/q12082.html#:~:text=The%20Skin,on%20tinting.))
 - Typical window glass such as that found in homes will block most of the UV light from entering your house with the exception of UV-A light. ([source](https://hps.org/publicinformation/ate/q12082.html#:~:text=typical%20window%20glass%20such%20as%20that%20found%20in%20homes%20will%20block%20most%20of%20the%20uv%20light%20from%20entering%20your%20house%20with%20the%20exception%20of%20uv-a%20light.))
@@ -14,6 +16,8 @@
 - By law, front windshields are treated to filter out most UVA, but side and rear windows generally aren’t. ([source](https://www.skincancer.org/blog/not-all-uv-rays-stay-outside-how-window-film-can-help-protect-you/#:~:text=by%20law%2C%20front%20windshields%20are%20treated%20to%20filter%20out%20most%20uva%2C%20but%20side%20and%20rear%20windows%20generally%20aren%E2%80%99t.))
 
 ### Clouds
+
+**tl;dr:** No clear answer on how much UVA makes it through clouds. Seems like most, or close to all, do.
 
 - Clouds filter out some UV rays from reaching the ground. However, it depends on the type of cloud. Dark, water-filled clouds may block out more UV rays than high, thin clouds. ([source](https://www.healthline.com/health/skin/uva-vs-uvb#:~:text=clouds%20filter%20out%20some%20uv%20rays%20from%20reaching%20the%20ground.%20however%2C%20it%20depends%20on%20the%20type%20of%20cloud.%20dark%2C%20water-filled%20clouds%20may%20block%20out%20more%20uv%20rays%20than%20high%2C%20thin%20clouds.))
 - Clouds can block up to 70-90% of these UV-B rays during times of extreme overcast. ([source](https://www.drgurgen.com/are-the-suns-uv-rays-really-stronger-on-cloudy-days-fact-or-myth/#:~:text=clouds%20can%20block%20up%20to%2070-90%25%20of%20these%20uv-b%20rays%20during%20times%20of%20extreme%20overcast.))
