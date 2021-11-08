@@ -32,6 +32,7 @@
 - Vitamin K2 is only found in certain animal-derived foods and fermented foods like natto, kimchi, and sauerkraut. ([source](https://www.wellnessverge.com/athletic-greens-review#:~:text=vitamin%20k2%20is%20only%20found%20in%20certain%20animal-derived%20foods%20and%20fermented%20foods%20like%20natto%2C%20kimchi%2C%20and%20sauerkraut.))
 - Vitamins D3 and K2 that you can take in addition to this daily product. Why? These two nutrients work together to help support your skeletal strength and bone health, muscle function, and normal immune response. ([source](https://www.wellnessverge.com/athletic-greens-review#:~:text=vitamins%20D3,immune%20response.))
 - Vitamin D is stored in your fat and liver and is released back into your body when you are low. So if you have a decent supply by the end of summer, it should last you until spring again. ([source](https://www.reddit.com/r/SkincareAddictionUK/comments/5e9mje/sunscreen_in_winter_in_the_uk/#:~:text=vitamin%20d%20is%20stored%20in%20your%20fat%20and%20liver%20and%20is%20released%20back%20into%20your%20body%20when%20you%20are%20low.%20so%20if%20you%20have%20a%20decent%20supply%20by%20the%20end%20of%20summer%2C%20it%20should%20last%20you%20until%20spring%20again.))
+- Ultraviolet B (UVB) rays (the ones your body needs to make vitamin D) ([source](<https://www.nhs.uk/live-well/healthy-body/how-to-get-vitamin-d-from-sunlight/#:~:text=ultraviolet%20b%20(uvb)%20rays%20(the%20ones%20your%20body%20needs%20to%20make%20vitamin%20d)>))
 
 ## Links
 
