@@ -26,6 +26,20 @@
   - The second theory is the idea of UV rays being redirected as they pass through thin wisp-like clouds. The combination of refraction and reflecting between varying clouds is resulting in a significantly greater UV strength at ground level. ([source](https://www.drgurgen.com/are-the-suns-uv-rays-really-stronger-on-cloudy-days-fact-or-myth/#:~:text=the%20second%20theory%20is%20the%20idea%20of%20uv%20rays%20being%20redirected%20as%20they%20pass%20through%20thin%20wisp-like%20clouds.%20the%20combination%20of%20refraction%20and%20reflecting%20between%20varying%20clouds%20is%20resulting%20in%20a%20significantly%20greater%20uv%20strength%20at%20ground%20level.))
 - Up to 80% of UVA rays can penetrate through clouds (NB: can't seem to find this anywhere else, and they don't exactly cite a source) ([source](https://www.greenpeople.co.uk/blogs/the-beauty-hub/uva-cloudy-day#:~:text=up%20to%2080%25%20of%20uva%20rays%20can%20penetrate%20through%20clouds))
 
+### Latitude
+
+- Annual doses of UVA radiation decrease much less with increasing latitude than annual doses of UVB. ([source](https://ultrasuninternational.com/wp-content/uploads/grigalavicius-et-al-2015_daily_seasonal_and_latitudinal_variations_in_solar_ultraviolet.pdf))
+  - UVA is actually higher at 60° N in peak summer than at equater / 0°
+  - Ozone depletes UVB bands more than UVA bands
+  - Ozone depletion is higher at higher latitudinal values, because it comes in at a higher angle, so it has to go through more ozone
+
+### Winter
+
+- https://ultrasuninternational.com/wp-content/uploads/grigalavicius-et-al-2015_daily_seasonal_and_latitudinal_variations_in_solar_ultraviolet.pdf
+  - Lots of graphics, showing the effects of time of year on UVA and UVB radiation throughout the year
+  - One graphic shows how at 60°N latitude, UVA and UVB rays are much lower
+    - UVB rays basically gone, but UVA still there but much lower
+
 ## Notes
 
 - There are two types of UV rays: UVA rays and UVB rays," Dr. Nichols says. "The shorter UVB rays are what causes sunburns, and they dwindle in the colder months as they are less able to cut through clouds and reach the Earth’s surface. However, the longer UVA rays persist all year, and actually penetrate deeper into the skin to cause the dark spots and wrinkles associated with sun damage. By continuing to wear your SPF all year round, you’ll protect your skin and more effectively prevent common signs of aging. ([source](https://www.thezoereport.com/p/how-much-spf-should-you-use-on-your-face-31818270))
@@ -69,5 +83,9 @@
 - IIRC, the UV index measures UBV, not UVA. ([source](https://www.reddit.com/r/AsianBeauty/comments/9we4pu/discussion_do_you_use_sunscreen_in_winter/#:~:text=iirc%2C%20the%20uv%20index%20measures%20ubv%2C%20not%20uva.))
 - Yes, a broad spectrum is used, but the UV index we see is heavily dictated by UVB because one of its main components is based on erythema (or sunburn), which is specially caused by UVB rays. ([source](https://www.reddit.com/r/AsianBeauty/comments/9we4pu/discussion_do_you_use_sunscreen_in_winter/#:~:text=yes%2C%20a%20broad%20spectrum%20is%20used%2C%20but%20the%20uv%20index%20we%20see%20is%20heavily%20dictated%20by%20uvb%20because%20one%20of%20its%20main%20components%20is%20based%20on%20erythema%20(or%20sunburn)%2C%20which%20is%20specially%20caused%20by%20uvb%20rays.))
 - Ultraviolet B (UVB) rays (the ones your body needs to make vitamin D) ([source](https://www.nhs.uk/live-well/healthy-body/how-to-get-vitamin-d-from-sunlight/#:~:text=ultraviolet%20b%20(uvb)%20rays%20(the%20ones%20your%20body%20needs%20to%20make%20vitamin%20d)))
+- The UVB:UVA ratio is maximal at noon ([source](https://ultrasuninternational.com/wp-content/uploads/grigalavicius-et-al-2015_daily_seasonal_and_latitudinal_variations_in_solar_ultraviolet.pdf))
+- Annual doses of UVA radiation decrease much less with increasing latitude than
 
 ## Links
+
+- https://ultrasuninternational.com/wp-content/uploads/grigalavicius-et-al-2015_daily_seasonal_and_latitudinal_variations_in_solar_ultraviolet.pdf
