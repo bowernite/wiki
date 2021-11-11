@@ -92,3 +92,4 @@ Notes taken from Why We Sleep book.
 - [Reveri - Digital Hypnosis (Non-Sleep Deep Rest)](https://www.reveri.com/)
 - [15 Science-Backed Tips for Sleeping on a Plane | Casper Blog](https://casper.com/blog/how-to-sleep-on-a-plane/)
 - [How to Fall Asleep Fast in 10, 60, or 120 Seconds](https://www.healthline.com/health/healthy-sleep/fall-asleep-fast)
+- [Dr. Andrew Huberman’s Sleep Cocktail | Brainflow](https://brainflow.co/index.php/2021/08/14/dr-andrew-hubermans-sleep-cocktail/#Magnesium_Threonate)
