@@ -39,6 +39,7 @@
   - [Health](well-being/health/health.md)
     - [Water Fluoridation](well-being/health/water-fluoridation.md)
     - [Vitamin D](well-being/health/vitamin-d.md)
+    - [Magnesium](well-being/health/magnesium.md)
     - [Breathing](well-being/health/breathing.md)
     - [Vision](well-being/health/vision.md)
     - [Anxiety](well-being/health/anxiety.md)
