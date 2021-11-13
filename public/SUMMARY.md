@@ -44,7 +44,7 @@
     - [Vision](well-being/health/vision.md)
     - [Anxiety](well-being/health/anxiety.md)
     - [Hydration](well-being/health/hydration.md)
-    - [Sleep](well-being/health/sleep.md)
+    - [Sleep](well-being/health/sleep/sleep.md)
       - [White Noise / Background Noise](well-being/health/sleep/white-noise-background-noise.md)
       - [Napping](well-being/health/sleep/napping.md)
       - [Wakefulness](well-being/health/sleep/wakefulness.md)
