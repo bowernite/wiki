@@ -7,3 +7,6 @@
 - [Advice on preserving (wool) socks](https://www.reddit.com/r/BuyItForLife/comments/3y7dn8/how_to_lengthen_the_life_of_wool_socks/#:~:text=Knitter%20here.%20Handwash,stuck%20between%20sizes.)
 
 ## Links
+
+- [How to Darn a Sock by Hand - YouTube](https://www.youtube.com/watch?v=NDkMShaLX9c)
+- [(15) How to lengthen the life of wool socks? : BuyItForLife](https://www.reddit.com/r/BuyItForLife/comments/3y7dn8/how_to_lengthen_the_life_of_wool_socks/)
