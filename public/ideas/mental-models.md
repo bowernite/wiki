@@ -16,3 +16,4 @@
 
 - [How great leaders inspire action | Simon Sinek - YouTube](https://www.youtube.com/watch?v=qp0HIF3SfI4&feature=youtu.be) - People don't buy what you do, they buy why you do it
 - [Circle of Concern / Influence / Control](https://www.solutionsiq.com/resource/blog-post/getting-in-control-focusing-on-the-right-things/?utm_campaign=swyx%27s%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)
+- [Byzantine fault - Wikipedia](https://en.wikipedia.org/wiki/Byzantine_fault)
