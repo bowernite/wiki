@@ -1,7 +1,7 @@
 # Table of contents
 
 - [Introduction](README.md)
-- Software
+- [Software](software/software.md)
   - [Tooling](software/software-tooling.md)
   - [npm](software/npm.md)
   - [CLI](software/cli.md)
