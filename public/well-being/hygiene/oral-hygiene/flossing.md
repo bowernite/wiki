@@ -48,3 +48,5 @@
 - Flossing isn't just to remove plaque or whatever by scraping it away... it's actually also is to disrupt bacteria colonies that "settle" in your mouth, undisturbed, kind of like an anthill or something. And by flossing you're destroying all their colonies and stomping on all the anthills... you're not just "removing gunk".
 
 ## Links
+
+- [18 redditors share their thoughts on Reach Access Flosser](https://redditbests.com/reviews/reach-access-flosser-b0017tu2he)
