@@ -40,3 +40,4 @@
 - [David Sinclair Is Working On Hair Regeneration – Follicle Thought](https://www.folliclethought.com/david-sinclair-is-working-on-hair-regeneration/)
 - [27yo 3 month experience with NMN : NicotinamideRiboside](https://www.reddit.com/r/NicotinamideRiboside/comments/eafeia/27yo_3_month_experience_with_nmn/)
 - [Hair Loss Treatment for Men | Mosh](https://www.getmosh.com.au/hair-loss)
+- [Early signs of hair loss you should watch out for | Mosh](https://www.getmosh.com.au/blog/early-signs-of-hair-loss-you-should-watch-out-for)
