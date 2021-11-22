@@ -50,3 +50,4 @@
 ## Links
 
 - [18 redditors share their thoughts on Reach Access Flosser](https://redditbests.com/reviews/reach-access-flosser-b0017tu2he)
+  - Isn't as thorough, can't wrap around teeth as well
