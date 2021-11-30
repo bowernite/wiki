@@ -36,6 +36,7 @@
   - [Shoes](clothing/shoes.md)
   - [Socks](clothing/socks.md)
 - [Well Being](well-being/well-being.md)
+  - [Gratitude](well-being/gratitude.md)
   - [Health](well-being/health/health.md)
     - [Water Fluoridation](well-being/health/water-fluoridation.md)
     - [Vitamin D](well-being/health/vitamin-d.md)
