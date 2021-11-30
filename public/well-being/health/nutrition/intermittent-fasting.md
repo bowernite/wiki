@@ -40,9 +40,8 @@
 
 ## What about occasionally breaking
 
-**tl;dr:** No dealbreaking problems with breaking. Many encourage it. One said it's supposedly good to mix it up.
-
 - [My thread on reddit about it](https://www.reddit.com/r/intermittentfasting/comments/ph7thj/on_the_verge_of_starting_but_still_not_sure_about/)
+- Breaking on weekends curbs some of the benefits. This has to do with the fact that the benefits of a schedule of feeding come a lot from the "body clock" topic ([source](https://open.spotify.com/episode/2ZdOl4cO0F2fsPjssJagbj?si=be142a7e9369489b))
 
 ## Effects on sleep
 
@@ -93,3 +92,4 @@
 
 - [Intermittent Fasting 101 — The Ultimate Beginner's Guide](https://www.healthline.com/nutrition/intermittent-fasting-guide)
 - [index - intermittentfasting](https://www.reddit.com/r/intermittentfasting/wiki/index/)
+- [Huberman Lab episode on Intermittent Fasting / Time Restricted Feeding](https://open.spotify.com/episode/2ZdOl4cO0F2fsPjssJagbj?si=be142a7e9369489b)
