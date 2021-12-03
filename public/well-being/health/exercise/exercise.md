@@ -24,4 +24,6 @@
 
 ## Notes
 
+- A recent study of 14.5K people showed that even if you start exercising mid-life there are major benefits to longevity (24% reduction in death by all causes) and if you ramp up your existing program, even better (42%). ([source](https://www.bmj.com/company/newsroom/keeping-active-or-becoming-more-active-in-middle-and-older-age-linked-to-longer-life/?utm_source=Lifespan+Book&utm_campaign=90660ccd8b-third_email_metformin&utm_medium=email&utm_term=0_82e2167267-90660ccd8b-158492430))
+
 ## Links
