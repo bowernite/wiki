@@ -10,3 +10,4 @@
 ## Links
 
 - [Unix Sed Command to Delete Lines in File - 15 Examples](https://www.folkstalk.com/2013/03/sed-remove-lines-file-unix-examples.html)
+- [Basic vs Extended (GNU Grep 3.7)](https://www.gnu.org/software/grep/manual/html_node/Basic-vs-Extended.html)
