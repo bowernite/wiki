@@ -22,3 +22,4 @@
 
 - [How to Drink More Water and Not Pee a Lot](https://spoonuniversity.com/lifestyle/drinking-water-without-peeing-a-lot)
 - [(15) Andrew Huberman's diet and supplement routine - based on most recent video he appeared in : andrewhuberman](https://www.reddit.com/r/andrewhuberman/comments/qar4go/andrew_hubermans_diet_and_supplement_routine/)
+- [Early-Morning Sun Exposure Triggers Cortisol & Dopamine Release, Enhancing Mood - Andrew Huberman - PodClips](https://podclips.com/c/P3z25Z?ss=r&ss2=andrewhuberman&d=2021-12-10)
