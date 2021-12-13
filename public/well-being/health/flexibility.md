@@ -44,3 +44,5 @@
 - Strengthening the core/abs can help take the load of the lower back
 
 ## Links
+
+- [How to Fix Knees That Crack & Pop When Squatting |#AskSquatU Show Ep. 7| - YouTube](https://www.youtube.com/watch?v=XlpthDOK36g)
