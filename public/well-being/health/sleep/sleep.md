@@ -84,6 +84,10 @@ Notes taken from Why We Sleep book.
 - Intermittent fasting my help with sleep quality, needing less sleep. See Intermittent Fasting notes for details
 - Study showed that people can't tell or accurately assess how much sleep is impairing them, while they are behind on sleep / impaired (source: Why We Sleep book)
 - Best to keep sleeping area separate from other areas, like watching TV or working ([source](https://www.fastcompany.com/90567684/the-case-for-taking-a-mid-day-nap-according-to-experts#:~:text=%E2%80%9Cif%20you%20start%20to%20work%2C%20sleep%2C%20and%20watch%20netflix%20in%20bed%2C%20your%20brain%20gets%20confused%2C%E2%80%9D%20says%20robbins.%20%E2%80%9Cand%20that%E2%80%99s%20where%20we%20can%20develop%20insomnia.%E2%80%9D))
+- Biologically programmed spike in alertness 60 minutes before bed (source: Huberman)- [Toolkit for Sleep - Huberman Lab](https://hubermanlab.com/toolkit-for-sleep/)
+  - Historically, humans needed to gather resources before sleep
+  - Passes after 45-60 minutes
+  - Don't worry about this -- instead, do mundane tasks in this time (e.g. cleaning)
 
 ## Links
 
@@ -93,3 +97,4 @@ Notes taken from Why We Sleep book.
 - [15 Science-Backed Tips for Sleeping on a Plane | Casper Blog](https://casper.com/blog/how-to-sleep-on-a-plane/)
 - [How to Fall Asleep Fast in 10, 60, or 120 Seconds](https://www.healthline.com/health/healthy-sleep/fall-asleep-fast)
 - [Dr. Andrew Huberman’s Sleep Cocktail | Brainflow](https://brainflow.co/index.php/2021/08/14/dr-andrew-hubermans-sleep-cocktail/#Magnesium_Threonate)
+- [Toolkit for Sleep - Huberman Lab](https://hubermanlab.com/toolkit-for-sleep/)
