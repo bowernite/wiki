@@ -45,3 +45,4 @@ Supplements widely used by those at the forefront of anti-aging:
 - [Planning for life expectancy increase? : fatFIRE](https://www.reddit.com/r/fatFIRE/comments/o3ztqf/planning_for_life_expectancy_increase/)
 - [How to age better? : fatFIRE](https://www.reddit.com/r/fatFIRE/comments/m0fht9/how_to_age_better/)
 - [Keeping active or becoming more active in middle and older age linked to longer life | BMJ](https://www.bmj.com/company/newsroom/keeping-active-or-becoming-more-active-in-middle-and-older-age-linked-to-longer-life/?utm_source=Lifespan+Book&utm_campaign=90660ccd8b-third_email_metformin&utm_medium=email&utm_term=0_82e2167267-90660ccd8b-158492430)
+- [David Sinclair interview on Aging | YouTube](https://www.youtube.com/watch?v=IEz1P4i1P7s)
