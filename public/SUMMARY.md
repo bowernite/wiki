@@ -35,6 +35,8 @@
   - [Base Layers](clothing/base-layers.md)
   - [Shoes](clothing/shoes.md)
   - [Socks](clothing/socks.md)
+- [Productivity](productivity/productivity.md)
+  - [Learning](productivity/learning.md)
 - [Well Being](well-being/well-being.md)
   - [Gratitude](well-being/gratitude.md)
   - [Health](well-being/health/health.md)
