@@ -9,6 +9,7 @@
   - Motion is planning -- it makes you _feel_ productive, but without the risk of failure
     - e.g. Checking emails, planning your diet, etc.
   - Action is the actual work that you do, that produces something
+- [Black Swans](https://bookstash.io/the-black-swan)
 
 ## Notes
 
