@@ -10,6 +10,7 @@
     - e.g. Checking emails, planning your diet, etc.
   - Action is the actual work that you do, that produces something
 - [Black Swans](https://bookstash.io/the-black-swan)
+- [Mediocristan vs. Exstremistan environments](https://bookstash.io/the-black-swan)
 
 ## Notes
 
