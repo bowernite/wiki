@@ -37,6 +37,7 @@
   - [Socks](clothing/socks.md)
 - [Productivity](productivity/productivity.md)
   - [Learning](productivity/learning.md)
+  - [Computer Usage](productivity/computer-usage.md)
 - [Well Being](well-being/well-being.md)
   - [Gratitude](well-being/gratitude.md)
   - [Health](well-being/health/health.md)
