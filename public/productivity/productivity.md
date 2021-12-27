@@ -23,7 +23,7 @@
   - Historically, humans needed to gather resources before sleep
   - Passes after 45-60 minutes
   - Don't worry about this -- instead, do mundane tasks in this time (e.g. cleaning)
+- [The low information diet](https://bookstash.io/the-4-hour-workweek)
 
 ## Links
 
-- [The 4-Hour Workweek Summary - BookStash](https://bookstash.io/the-4-hour-workweek)
