@@ -41,6 +41,7 @@
 - [Well Being](well-being/well-being.md)
   - [Gratitude](well-being/gratitude.md)
   - [Health](well-being/health/health.md)
+    - [Injury](well-being/health/injury.md)
     - [Water Fluoridation](well-being/health/water-fluoridation.md)
     - [Vitamin D](well-being/health/vitamin-d.md)
     - [Magnesium](well-being/health/magnesium.md)
