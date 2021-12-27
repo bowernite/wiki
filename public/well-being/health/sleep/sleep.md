@@ -88,6 +88,8 @@ Notes taken from Why We Sleep book.
   - Historically, humans needed to gather resources before sleep
   - Passes after 45-60 minutes
   - Don't worry about this -- instead, do mundane tasks in this time (e.g. cleaning)
+- [Elevating Feet During Sleep Can Increase Glymphatic Clearance](https://podclips.com/c/fyJMuY)
+  - Huberman experiments with sleeping with feet slightly elevated, says it helps him wake up feeling more refreshed, helps him sleep more deeply. Also sleeping on your side helps with this. Has to do with Glymphatic clearance ([source: 43:00](https://open.spotify.com/episode/0hZnn7rEmWTxLaB4l5xWXg?si=8PV-qlW-QpSxyd4N-rdnEA))
 
 ## Links
 
