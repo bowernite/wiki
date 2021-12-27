@@ -20,3 +20,4 @@
 - [Circle of Concern / Influence / Control](https://www.solutionsiq.com/resource/blog-post/getting-in-control-focusing-on-the-right-things/?utm_campaign=swyx%27s%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [Byzantine fault - Wikipedia](https://en.wikipedia.org/wiki/Byzantine_fault)
 - [Ludic fallacy - Wikipedia](https://en.wikipedia.org/wiki/Ludic_fallacy)
+- [Parkinson's law - Wikipedia](https://en.wikipedia.org/wiki/Parkinson's_law)
