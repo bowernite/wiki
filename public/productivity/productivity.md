@@ -12,16 +12,18 @@
   - Action to be motivated to get things done
   - Suppression to not get distracted (by phone, or meaningless to-dos)
   - These pathways are very consuming. After a while, discipline starts to wane
-- Exercising earlier in the day helps us get up earlier, and helps us stay alert later in the day. More energy in the day in general (source: Huberman) 
+- Exercising earlier in the day helps us get up earlier, and helps us stay alert later in the day. More energy in the day in general (source: Huberman)
   - If the exercise is very consuming, you might crash after you have a meal
-- Fast and low carb states lend themselves to alertness (source: Huberman) 
+- Fast and low carb states lend themselves to alertness (source: Huberman)
   - Food makes you sleepy in general
     - The blood is directed towards the gut
     - Energy spent on digestion
-- A bit of starch at lunch if highly consuming exercise done in the morning (source: Huberman) 
-- Biologically programmed spike in alertness 60 minutes before bed (source: Huberman) 
+- A bit of starch at lunch if highly consuming exercise done in the morning (source: Huberman)
+- Biologically programmed spike in alertness 60 minutes before bed (source: Huberman)
   - Historically, humans needed to gather resources before sleep
   - Passes after 45-60 minutes
   - Don't worry about this -- instead, do mundane tasks in this time (e.g. cleaning)
 
 ## Links
+
+- [The 4-Hour Workweek Summary - BookStash](https://bookstash.io/the-4-hour-workweek)
