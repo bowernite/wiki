@@ -13,6 +13,7 @@
   - Why is it seen as bad sometimes?
     - Inflammation plays a central role in healing, but left to run wild, this process can lead to arthritis, heart disease, and Alzheimer's. Inflammation is like a fire in your body you cannot see or feel.
   - _Chronic_ inflammation is bad. _Acute_ inflammation is good ([source: 1:08:00](https://open.spotify.com/episode/0hZnn7rEmWTxLaB4l5xWXg?context=spotify%3Auser%3A1242916202%3Acollection%3Ayour-episodes&dl_branch=1&si=rxE49r4iQ2CEXTo3dlSP7A))
+  - Turmeric helps with inflammation, but a lot is heavily contaminated with lead [source: 1:08:00](https://open.spotify.com/episode/0hZnn7rEmWTxLaB4l5xWXg?context=spotify%3Auser%3A1242916202%3Acollection%3Ayour-episodes&dl_branch=1&si=rxE49r4iQ2CEXTo3dlSP7A)
 - Common theme in neuroscience discussions: **can't control the body with the body, vice-versa**
   - Leverage the other to control these
 - You should sip water slowly, two to three ounces at a time, throughout the day. If you drink too fast, you risk diluting your blood, which may cause faster excretion of water by the kidneys ([source](https://www.dollarshaveclub.com/content/story/youre-chugging-water-hydrate-youre-wrong#:~:text=You%20should%20sip%20water%20slowly%2C%20two%20to%20three%20ounces%20at%20a%20time%2C%20throughout%20the%20day.%20If%20you%20drink%20too%20fast%2C%20you%20risk%20diluting%20your%20blood%2C%20which%20may%20cause%20faster%20excretion%20of%20water%20by%20the%20kidneys))

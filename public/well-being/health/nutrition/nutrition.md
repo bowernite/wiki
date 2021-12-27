@@ -22,6 +22,10 @@
   - Spikes blood glucose levels, makes you want to have more glucose
   - On the other hand, eating fibrous foods first (or combined with carbs) will lead to satiety earlier
   - e.g. the bread they put out at restaurants will ultimately make you want to eat more (in total)
+- Turmeric helps with inflammation, but a lot is heavily contaminated with lead [source: 1:08:00](https://open.spotify.com/episode/0hZnn7rEmWTxLaB4l5xWXg?context=spotify%3Auser%3A1242916202%3Acollection%3Ayour-episodes&dl_branch=1&si=rxE49r4iQ2CEXTo3dlSP7A)
+  - The lead is used to get the rich orange color
+  - So check your sources of turmeric
+  - For men in particular, can be antagonistic to DHT (involved in aggression, libido)
 
 ## Links
 
