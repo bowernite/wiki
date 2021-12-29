@@ -21,3 +21,4 @@
 - [Byzantine fault - Wikipedia](https://en.wikipedia.org/wiki/Byzantine_fault)
 - [Ludic fallacy - Wikipedia](https://en.wikipedia.org/wiki/Ludic_fallacy)
 - [Parkinson's law - Wikipedia](https://en.wikipedia.org/wiki/Parkinson's_law)
+  - [Tim Ferris on Parkinson's law](https://lifehacker.com/parkinsons-law-and-the-4-hour-workweek-262343)
