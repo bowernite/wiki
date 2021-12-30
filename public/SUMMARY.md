@@ -1,6 +1,7 @@
 # Table of contents
 
 - [Introduction](README.md)
+- [Inspirations](inspirations.md)
 - [Software](software/software.md)
   - [Tooling](software/software-tooling.md)
   - [npm](software/npm.md)
@@ -26,7 +27,6 @@
 - [Project Management](project-management/project-management.md)
   - [Lean](project-management/lean.md)
 - [Career](career/career.md)
-  - [Inspirations](career/inspirations.md)
   - [Job Hunting](career/job-hunting.md)
 - [Finances](finances/finances.md)
 - [Clothing](clothing/clothing.md)
