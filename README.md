@@ -1,4 +1,4 @@
-# Wiki
+# [wiki.abramczyk.dev](https://wiki.abramczyk.dev)
 
 My second brain. Where I take notes (both public and private), so that I can:
 
