@@ -32,3 +32,4 @@ _With P.A.R.A. you organize all your notes by purpose, not by category. Let’s 
 - [I AM Yoga Nidra™ led by Liam Gillen - YouTube](https://www.youtube.com/watch?v=FroVfmOtaps
 - [Reveri - Digital Hypnosis (Non-Sleep Deep Rest)](https://www.reveri.com/)
 - [Leitner system - Wikipedia](https://en.wikipedia.org/wiki/Leitner_system)
+- [Building a Second Brain: An Overview - Forte Labs](https://fortelabs.co/blog/basboverview/)
