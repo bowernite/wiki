@@ -25,5 +25,7 @@
   - Don't worry about this -- instead, do mundane tasks in this time (e.g. cleaning)
 - [The low information diet](https://bookstash.io/the-4-hour-workweek)
 
+![Decision Matrix](../images/The-Eisenhower-Decision-Matrix-png-1024x768.png)
+
 ## Links
 
