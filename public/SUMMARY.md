@@ -79,6 +79,7 @@
   - [Keys](ideas/keys.md)
   - [Mental Models](ideas/mental-models.md)
 - Craft
+  - [Coffee](craft/coffee.md)
   - [Parenting](craft/parenting.md)
   - [Handywork](craft/handywork.md)
   - [Cooking](craft/cooking.md)
