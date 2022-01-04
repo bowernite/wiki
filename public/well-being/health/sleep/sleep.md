@@ -95,7 +95,7 @@ Notes taken from Why We Sleep book.
 
 ## Links
 
-- [Yoga Nidra - Guided Meditation to Relax | 10min - YouTube](https://www.youtube.com/watch?v=M0u9GST_j3s&t=48s)
+- [Yoga Nidra - Guided Meditation to Relax | 10min - YouTube](https://www.youtube.com/watch?v=M0u9GST_j3s&)
 - [I AM Yoga Nidra™ led by Liam Gillen - YouTube](https://www.youtube.com/watch?v=FroVfmOtaps)
 - [Reveri - Digital Hypnosis (Non-Sleep Deep Rest)](https://www.reveri.com/)
 - [15 Science-Backed Tips for Sleeping on a Plane | Casper Blog](https://casper.com/blog/how-to-sleep-on-a-plane/)
