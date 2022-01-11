@@ -3,6 +3,7 @@
 - [Introduction](README.md)
 - [Inspirations](inspirations.md)
 - [Software](software/software.md)
+  - [Systems Design](software/systems-design.md)
   - [Tooling](software/software-tooling.md)
   - [npm](software/npm.md)
   - [CLI](software/cli.md)
