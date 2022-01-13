@@ -1,3 +1,13 @@
+# Software Tooling
+
+## Observability
+
+- [AWS RUM – Real-User Monitoring for Amazon CloudWatch | AWS News Blog](https://aws.amazon.com/blogs/aws/cloudwatch-rum/)
+  - Browser JavaScript code that handles Telemetry data, JavaScript errors, HTTP errors
+- [Sentry](https://sentry.io/welcome/)
+  - Client side error handling
+  - Also has some traces functionality
+
 ## Notes
 
 ## Links
