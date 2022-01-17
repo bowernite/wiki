@@ -41,6 +41,7 @@
   - [Learning](productivity/learning.md)
   - [Computer Usage](productivity/computer-usage.md)
 - [Well Being](well-being/well-being.md)
+  - [Social Bonding](well-being/social-bonding.md)
   - [Gratitude](well-being/gratitude.md)
   - [Health](well-being/health/health.md)
     - [Injury](well-being/health/injury.md)
