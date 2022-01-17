@@ -1,5 +1,13 @@
 # Software Tooling
 
+## JS WSYIWYG Editor
+
+_Added Jan 2022_
+
+- DraftJS seems to be the best
+- Another option: QuillJS / react-quill
+  - Might be undesirable, since they mix controlled / uncontrolled
+
 ## Observability
 
 - [AWS RUM – Real-User Monitoring for Amazon CloudWatch | AWS News Blog](https://aws.amazon.com/blogs/aws/cloudwatch-rum/)
