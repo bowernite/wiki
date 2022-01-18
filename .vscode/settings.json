@@ -25,4 +25,5 @@
     // "editor.rulers": [70],
     // "editor.wordWrap": "bounded"
   },
+  "eslint.enable": false,
 }
