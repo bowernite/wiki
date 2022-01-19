@@ -1,5 +1,13 @@
 # Intermittent Fasting
 
+## Greens drinks (e.g. Athletic Greens)
+
+- Drinking one will technically break your fast. They're about 55 calories
+- Some people say they can do it without impacting fasting results (but I'm unsure how to evaluate that)
+- Recommended to drink these drinks "first thing in the morning for optimal absorption"
+  - The alternative to this if not wanting to break fast is to drink slightly before lunch, i.e. 15 minutes
+- [Source: Do athletic greens break a fast?](https://moviecultists.com/do-athletic-greens-break-a-fast)
+
 ## Research stage
 
 - Research is still in its early stages. Many of the studies were small, short-term or conducted in animals. Many questions have yet to be answered in higher quality human studies ([source](https://www.healthline.com/nutrition/intermittent-fasting-guide#:~:text=research%20is%20still%20in%20its%20early%20stages.%20Many%20of%20the%20studies%20were%20small%2C%20short-term%20or%20conducted%20in%20animals.%20Many%20questions%20have%20yet%20to%20be%20answered%20in%20higher%20quality%20human%20studies))
