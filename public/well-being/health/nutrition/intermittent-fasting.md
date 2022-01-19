@@ -95,9 +95,12 @@
 - [What to do about super occasional late drinking/eating socially? : intermittentfasting](https://www.reddit.com/r/intermittentfasting/comments/nz75wz/what_to_do_about_super_occasional_late/)
   - Lots of suggestions to be totally ok with occassional breaks, and some even saying to lean into them
 - Focus on healthy, high-fiber, vegetable-rich foods during the feeding periods and moderate other less-healthy options. ([source](https://www.onemedical.com/blog/eat-well/intermittent-fasting#:~:text=%20focus%20on%20healthy%2C%20high-fiber%2C%20vegetable-rich%20foods%20during%20the%20feeding%20periods%20and%20moderate%20other%20less-healthy%20options.))
+- The general rule of thumb is that if you stay under 50 calories, then you'll remain in the fasted state. ([source](https://moviecultists.com/do-athletic-greens-break-a-fast#:~:text=the%20general%20rule%20of%20thumb%20is%20that%20if%20you%20stay%20under%2050%20calories%2C%20then%20you'll%20remain%20in%20the%20fasted%20state.))
+  - Though I think Huberman has emphasized the _type_ of calories is super important here as well. It's all about blood glucose and insulin levels
 
 ## Links
 
 - [Intermittent Fasting 101 — The Ultimate Beginner's Guide](https://www.healthline.com/nutrition/intermittent-fasting-guide)
 - [index - intermittentfasting](https://www.reddit.com/r/intermittentfasting/wiki/index/)
 - [Huberman Lab episode on Intermittent Fasting / Time Restricted Feeding](https://open.spotify.com/episode/2ZdOl4cO0F2fsPjssJagbj?si=be142a7e9369489b)
+- [Link containing answers on if some things break a fast or not](https://moviecultists.com/do-athletic-greens-break-a-fast) (i.e. Athletic Greens, spinach, sugar free gum, Crystal Light)
