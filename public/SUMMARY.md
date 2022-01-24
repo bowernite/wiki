@@ -38,6 +38,7 @@
   - [Shoes](clothing/shoes.md)
   - [Socks](clothing/socks.md)
 - [Productivity](productivity/productivity.md)
+  - [Goals](productivity/goals.md)
   - [Learning](productivity/learning.md)
   - [Computer Usage](productivity/computer-usage.md)
 - [Well Being](well-being/well-being.md)

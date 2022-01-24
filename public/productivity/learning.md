@@ -23,8 +23,10 @@ _With P.A.R.A. you organize all your notes by purpose, not by category. Let’s 
 - Ultradian, 90min cycles optimized for learning
   - Transition into focus mode early in the cycle when it's hard to focus (optimizes learning)
   - Very hard to focus at the end of the 90min
-- Study showed that Non-Sleep Deep Rest immediately after learning accelerated learning
+- Study showed that Non-Sleep Deep Rest immediately after a learning bout accelerated learning
   - Both amount of info learned, and retention of it
+- Failure is good for learning -- it heightens alertness, and therefore increases the chance that you will learn it when you hear the correct answer (source: Huberman goals podcast)
+  - Study found that the ideal success rate when learning is **85%** (fail rate of 15%) (source: Huberman goals podcast)
 
 ## Links
 
