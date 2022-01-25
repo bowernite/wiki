@@ -1,5 +1,27 @@
 # Hygiene
 
+## Going without deodorant
+
+_(in addition to no soap)_
+
+**tl;dr** definitely will increase in bacteria, possibility going 4-5 months total could get rid of smell. deodorant probably better than adding soap back into mix (strips skin of oil); antiperspirant might be better
+
+- one guy said the scent of pits went away after **4-5 months**
+- some recommend **baking soda or bicarbonate**
+- people say cutting dairy helps
+  - some say cutting animal products
+- one guy said `Plant based diet and green smoothies and I can skip the "deodorant" all together`
+- took a look at reddit NoSoap subreddit
+- Deodorant stones a thing -- natural deodorant
+  - [Amazon.com: Deodorant Stones of America: Thai Crystal Deodorant, 4.25 oz (Pack of 2), Packaging May Vary : Beauty & Personal Care](https://www.amazon.com/Deodorant-Stones-America-Thai-Crystal/dp/B001E0YN1W)
+  - I find it easiest to towel off skipping my armpits and immediately use the stone. They need moisture for application. The stone can be slippery when wet so it is better to have wet/moist pits instead of wet slippery stone. If the thing hits the floor it will shatter in to tiny pieces. ([source](https://www.reddit.com/r/NoSoap/comments/gmnjfl/any_of_you_experimenting_armpit_odor_with_no_soap/#:~:text=i%20find%20it%20easiest%20to%20towel%20off%20skipping%20my%20armpits%20and%20immediately%20use%20the%20stone.%20they%20need%20moisture%20for%20application.%20the%20stone%20can%20be%20slippery%20when%20wet%20so%20it%20is%20better%20to%20have%20wet%2Fmoist%20pits%20instead%20of%20wet%20slippery%20stone.%20if%20the%20thing%20hits%20the%20floor%20it%20will%20shatter%20in%20to%20tiny%20pieces.))
+  - Questionable if they're safe
+- The groin smell reduction was unexpected and remarkable, and the entire nether region is clearly healthier, less moist, and less cheesy than ever before.
+- "Deodorant is still required, as armpits are designed to generate significant smell. However, a single application of deodorant is sufficient to last for two days for light effort days such as an office job"
+- a lot of people (that are privvy to the no soap movement) still use deodorant
+  - some say they still use soap on pits (but don't specify if they use deodorant too)
+- Anti-perspirants prevent or reduce sweating in the armpits and are the best way to prevent unpleasant odours - even if you wash with soap you still need these products. Although chemical in nature, most anti-perspirants are well tolerated and seldom cause problems.  There are prescription-strength variants available for those with an excessive sweat problem.
+
 ## Notes
 
 - Most people actually use way too much body wash. They fill up their entire palm, which is way more than the quarter-sized dollop that they actually need. ([source](https://puracy.com/blogs/wellness/4-tips-how-to-use-body-wash#:~:text=Most%20people%20actually%20use%20way%20too%20much%20body%20wash.%20They%20fill%20up%20their%20entire%20palm%2C%20which%20is%20way%20more%20than%20the%20quarter-sized%20dollop%20that%20they%20actually%20need.))
