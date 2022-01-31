@@ -16,6 +16,10 @@ _Added Jan 2022_
   - Client side error handling
   - Also has some traces functionality
 
+## Dev tooling
+
+- [Trunk - More automation around linting, formatting, merging, etc.](https://trunk.io/)
+
 ## Notes
 
 ## Links
