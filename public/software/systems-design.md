@@ -129,6 +129,27 @@
 - Sharding and partitioning are both about breaking up a large data set into smaller subsets. The difference is that sharding implies the data is spread across multiple computers while partitioning does not. Partitioning is about grouping subsets of data within a single database instance. ([source](https://hazelcast.com/glossary/sharding/#:~:text=sharding%20and%20partitioning%20are%20both%20about%20breaking%20up%20a%20large%20data%20set%20into%20smaller%20subsets.%20the%20difference%20is%20that%20sharding%20implies%20the%20data%20is%20spread%20across%20multiple%20computers%20while%20partitioning%20does%20not.%20partitioning%20is%20about%20grouping%20subsets%20of%20data%20within%20a%20single%20database%20instance.))
 - In many cases, the terms sharding and partitioning are even used synonymously, especially when preceded by the terms “horizontal” and “vertical.” Thus, “horizontal sharding” and “horizontal partitioning” can mean the same thing. ([source](https://hazelcast.com/glossary/sharding/#:~:text=in%20many%20cases%2C%20the%20terms%20sharding%20and%20partitioning%20are%20even%20used%20synonymously%2C%20especially%20when%20preceded%20by%20the%20terms%20%E2%80%9Chorizontal%E2%80%9D%20and%20%E2%80%9Cvertical.%E2%80%9D%20thus%2C%20%E2%80%9Chorizontal%20sharding%E2%80%9D%20and%20%E2%80%9Chorizontal%20partitioning%E2%80%9D%20can%20mean%20the%20same%20thing.))
 
+## [CAP Theorem](https://github.com/donnemartin/system-design-primer#cap-theorem)
+
+- Consistency - Every read receives the most recent write or an error 
+- Availability - Every request receives a response, without guarantee that it contains the most recent version of the information
+- Partition tolerance required, due to unreliable nature of a network
+- [Consistency patterns](https://github.com/donnemartin/system-design-primer#consistency-patterns)
+  - Weak consistency: Reads may not see it, but doesn't matter. i.e. phone calls, realtime apps, video games
+  - Eventual consistency: Reads will see latest typically after a few milliseconds. i.e. DNS and email
+  - Strong consistency: Immediately accurate. i.e. RDBMSes and file systems
+- Availability patterns
+  - Fail-over
+    - Active-passive: Heartbeat from active to passive, if heartbeat breaks, passive handles the load
+    - Active-active: Both servers are active and handling traffic
+    - Disadvantages:
+      - Fail-over adds more hardware and additional complexity.
+      - There is a potential for loss of data if the active system fails before any newly written data can be replicated to the passive.
+
+## Availability
+
+- Measured in 9's (i.e. 99.99% is 4 9s)
+
 ## Notes
 
 - A systems design interview is as much about communication with the interviewer ([source](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/#:~:text=a%20systems%20design%20interview%20is%20as%20much%20about%20communication%20with%20the%20interviewer))
