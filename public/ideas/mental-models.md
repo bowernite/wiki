@@ -22,3 +22,4 @@
 - [Ludic fallacy - Wikipedia](https://en.wikipedia.org/wiki/Ludic_fallacy)
 - [Parkinson's law - Wikipedia](https://en.wikipedia.org/wiki/Parkinson's_law)
   - [Tim Ferris on Parkinson's law](https://lifehacker.com/parkinsons-law-and-the-4-hour-workweek-262343)
+- [10 10 10 rule](https://medium.com/the-authentic-man/how-to-make-better-decisions-with-the-10-10-10-rule-ff65d2582ce6#:~:text=The%2010%E2%80%9310%E2%80%9310%20rule%20makes%20long%2D,term%20thinking%20easy%20and%20practical.&text=Think%20not%20only%20about%20how,Then%2C%20decide%20accordingly)
