@@ -34,4 +34,5 @@ Notes on shell scripting, as well as some zsh- and bash-specific stuff.
 - [zsh - string substitutions: all occurrences - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/115438/string-substitutions-all-occurrences)
 - [A Quick Primer on Bash Booleans (StackOverflow)](https://stackoverflow.com/questions/19670061/bash-if-false-returns-true-instead-of-false-why)
 - [bash - How to change the output color of echo in Linux - Stack Overflow](https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux)
- - [How to exit bash function if error? - Stack Overflow](https://stackoverflow.com/questions/40429865/how-to-exit-bash-function-if-error)
+- [How to exit bash function if error? - Stack Overflow](https://stackoverflow.com/questions/40429865/how-to-exit-bash-function-if-error)
+- [Shell Tools and Scripting · the missing semester of your cs education](https://missing.csail.mit.edu/2020/shell-tools/)

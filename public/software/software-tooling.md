@@ -19,6 +19,7 @@ _Added Jan 2022_
 ## Dev tooling
 
 - [Trunk - More automation around linting, formatting, merging, etc.](https://trunk.io/)
+- [Hoppscotch (Postman Alternative) - Open source API development ecosystem](https://hoppscotch.io/)
 
 ## Notes
 
