@@ -28,4 +28,5 @@
 - [Developmental fluoride neurotoxicity: an updated review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6923889/)
 - [Association of lifetime exposure to fluoride and cognitive functions in Chinese children: A pilot study - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0892036214001809)
 - [Fluoride And IQ? What Is The Link, What This Study Says](https://www.forbes.com/sites/brucelee/2019/08/20/fluoride-and-iq-what-is-the-link-what-this-study-says/)
-- [Aluminium and fluoride in drinking water in relation to later dementia risk - PubMed](https://pubmed.ncbi.nlm.nih.gov/30868981/)
+- [10 Ways I Detoxed My Body From Fluoride (100% Scientific)](https://truthaboutfluoride.com/fluoride-detox/)- [Aluminium and fluoride in drinking water in relation to later dementia risk - PubMed](https://pubmed.ncbi.nlm.nih.gov/30868981/)
+
