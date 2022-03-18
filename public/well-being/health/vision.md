@@ -24,6 +24,7 @@ Source: Huberman podcast
   - "Relax" eyes and look out at the horizon
   - Go into "panoramic vision", let vision expand
 - **Protocol: For every 30 minutes of focused work, look up and relax face, jaw, eye muscles (probably 20 seconds at least?)**
+  - On a separate podcast, he mentions the "45/5 rule", where you get up and relax your gaze for 5 minutes after 45 minutes of focused close vision work
   - **Protocol: For every 90 minutes of looking at something up close, 20-30 minutes of "relaxing" eyes, looking at things far away, getting outside**
 - If commuting, not looking at phone the whole time
 - Basically, we want to work the muscles in our eye for adjusting to near and far objects
