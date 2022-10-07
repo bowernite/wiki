@@ -12,7 +12,8 @@
     "activityBar.inactiveForeground": "#e7e7e799",
     "activityBarBadge.background": "#422c74",
     "activityBarBadge.foreground": "#e7e7e7",
-    "sash.hoverBorder": "#2f7c47"
+    "sash.hoverBorder": "#2f7c47",
+    "commandCenter.border": "#e7e7e799"
   },
   "peacock.color": "#215732",
   "[markdown]": {
